@@ -2931,29 +2931,14 @@ mazda,6,6
 mazda,626,626
 mazda,929,929
 mazda,b pickup,biante
-mazda,b pickup,2500 2wd
+mazda,b pickup,2500
 mazda,b pickup,b2000
-mazda,b pickup,b2200/b2600
-mazda,b pickup,b2200/b2600i
-mazda,b pickup,b2300 2wd
-mazda,b pickup,b2300/b3000/b4000 pickup 2wd
-mazda,b pickup,b2300/b3000/b4000 pickup 4wd
+mazda,b pickup,b2200
+mazda,b pickup,b2300
 mazda,b pickup,b2500
-mazda,b pickup,b2500 2wd
-mazda,b pickup,b2500/b3000/b4000 2wd
-mazda,b pickup,b2500/b3000/b4000 4wd
-mazda,b pickup,b2600 4x4
-mazda,b pickup,b2600i 4x4
+mazda,b pickup,b2600
 mazda,b pickup,b3000
-mazda,b pickup,b3000 (ffv) ethanol 2wd
-mazda,b pickup,b3000 2wd
-mazda,b pickup,b3000 2wd ffv
-mazda,b pickup,b3000 4wd
-mazda,b pickup,b3000 ffv 2wd
-mazda,b pickup,b3000 ffv 4wd
 mazda,b pickup,b4000
-mazda,b pickup,b4000 2wd
-mazda,b pickup,b4000 4wd
 mazda,cx-3,cx-3
 mazda,cx-30,cx-30
 mazda,cx-5,cx-5
@@ -2968,7 +2953,6 @@ mazda,mpv,mpv
 mazda,mx-3,mx-3
 mazda,mx-30,mx-30
 mazda,mx-5,mx-5
-mazda,mx-5 miata,mx-5 miata
 mazda,mx-6,mx-6
 mazda,navajo,navajo
 mazda,protege,protege
@@ -4605,63 +4589,17 @@ texas coach company,500se,500se
 texas coach company,500sec,500 sec
 texas coach company,500sel,500sel
 texas coach company,500sl,500sl
-toyota,4runner,4runner 2wd
-toyota,4runner,4runner 4wd
+toyota,4runner,4runner
 toyota,86,86
 toyota,avalon,avalon
-toyota,avalon,avalon awd
-toyota,avalon,avalon hybrid
-toyota,avalon,avalon hybrid xle
-toyota,avalon,avalon trd
-toyota,avalon,avalon xle
 toyota,bz4x,bz4x
-toyota,bz4x,bz4x awd
-toyota,bz4x,bz4x limited
-toyota,bz4x,bz4x limited awd
 toyota,c-hr,c-hr
-toyota,cab chassis,cab chassis 2wd
-toyota,cab chassis,cab/chassis
-toyota,cab chassis,cab/chassis 2wd
+toyota,cab chassis,cab chassis
 toyota,camry,camry
-toyota,camry,camry awd le/se
-toyota,camry,camry awd xle/xse
-toyota,camry,camry cng
-toyota,camry,camry hybrid
-toyota,camry,camry hybrid le
-toyota,camry,camry hybrid se/xle/xse
-toyota,camry,camry hybrid xle
-toyota,camry,camry hybrid xle/se
-toyota,camry,camry le/se
-toyota,camry,camry solara
-toyota,camry,camry solara convertible
-toyota,camry,camry trd
-toyota,camry,camry wagon
-toyota,camry,camry xle/xse
-toyota,camry,camry xse
 toyota,celica,celica
-toyota,celica,celica convertible
-toyota,celica,celica supra
 toyota,corolla,corolla
-toyota,corolla,corolla all-trac wagon
-toyota,corolla,corolla apex
-toyota,corolla,corolla fx
-toyota,corolla,corolla hatchback
-toyota,corolla,corolla hatchback xse
-toyota,corolla,corolla hybrid
-toyota,corolla,corolla hybrid awd
-toyota,corolla,corolla im
-toyota,corolla,corolla le eco
-toyota,corolla,corolla sport
-toyota,corolla,corolla wagon
-toyota,corolla,corolla xle
-toyota,corolla,corolla xse
-toyota,corolla,gr corolla
 toyota,corolla cross,corolla cross
-toyota,corolla cross,corolla cross 4wd
-toyota,corolla cross,corolla cross awd
-toyota,corolla cross,corolla cross hybrid awd
 toyota,cressida,cressida
-toyota,cressida,cressida wagon
 toyota,crown,crown awd
 toyota,echo,echo
 toyota,fj cruiser,fj cruiser 2wd

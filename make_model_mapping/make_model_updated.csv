@@ -1,55 +1,4 @@
 Make,baseModel,Model
-acura,cl,2.2cl/3.0cl
-acura,cl,2.3cl/3.0cl
-acura,cl,3.2cl
-acura,ilx,ilx
-acura,ilx,ilx hybrid
-acura,integra,integra
-acura,integra,integra a-spec
-acura,legend,legend
-acura,mdx,mdx
-acura,mdx,mdx 2wd
-acura,mdx,mdx 4wd
-acura,mdx,mdx awd
-acura,mdx,mdx awd a-spec
-acura,mdx,mdx awd type-s
-acura,mdx,mdx fwd
-acura,mdx,mdx hybrid awd
-acura,nsx,nsx
-acura,nsx,nsx hybrid
-acura,rdx,rdx 2wd
-acura,rdx,rdx 4wd
-acura,rdx,rdx awd
-acura,rdx,rdx awd a-spec
-acura,rdx,rdx fwd
-acura,rdx,rdx fwd a-spec
-acura,rl,3.5rl
-acura,rl,rl
-acura,rlx,rlx
-acura,rlx,rlx hybrid
-acura,rsx,rsx
-acura,slx,slx
-acura,tl,2.5tl
-acura,tl,2.5tl/3.2tl
-acura,tl,3.2tl
-acura,tl,tl
-acura,tl,tl 2wd
-acura,tl,tl 4wd
-acura,tlx,tlx
-acura,tlx,tlx 2wd
-acura,tlx,tlx 4wd
-acura,tlx,tlx awd
-acura,tlx,tlx awd a-spec
-acura,tlx,tlx fwd
-acura,tlx,tlx fwd a-spec
-acura,tlx,tlx type-s
-acura,tlx,tlx type-s perf tire
-acura,tsx,tsx
-acura,tsx,tsx wagon
-acura,vigor,vigor
-acura,zdx,zdx 4wd
-acura,zdx,zdx awd
-acura,zdx,zdx rwd
 alfa romeo,164,164
 alfa romeo,4c,4c
 alfa romeo,giulia,giulia
@@ -63,15 +12,7 @@ alfa romeo,spider,spider veloce 2000
 alfa romeo,stelvio,stelvio
 alfa romeo,stelvio,stelvio awd
 alfa romeo,tonale eawd,tonale eawd
-am general,dj po vehicle,dj po vehicle 2wd
-am general,fj8c post office,fj8c post office
-am general,post office dj5,post office dj5 2wd
-am general,post office dj8,post office dj8 2wd
-american motors corporation,eagle,eagle
-american motors corporation,eagle,eagle 4dr wagon
-american motors corporation,eagle,eagle 4wd
-american motors corporation,eagle,eagle sx/4 4wd
-asc incorporated,gnx,gnx
+alpine,a110,a110
 aston martin,db ar1,db ar1
 aston martin,db-7 gt,db-7 gt coupe
 aston martin,db-7 gt,db-7 gt volante
@@ -84,37 +25,22 @@ aston martin,db7,db7 coupe
 aston martin,db7,db7 volante
 aston martin,db9,db9
 aston martin,db9,db9 coupe
-aston martin,db9,db9 coupe manual
 aston martin,db9,db9 volante
-aston martin,db9,db9 volante manual
 aston martin,dbs,dbs
-aston martin,dbs,dbs coupe
 aston martin,dbx 707,dbx 707
 aston martin,dbx v8,dbx v8
 aston martin,lagonda,lagonda
 aston martin,rapide,rapide
-aston martin,rapide,rapide s
-aston martin,saloon/vantage/volante,saloon/vantage/volante
 aston martin,valour,valour
 aston martin,vanquish,v12 vanquish
-aston martin,vanquish,v12 vanquish s
 aston martin,vanquish,vanquish
 aston martin,vanquish,vanquish s
-aston martin,vanquish,vanquish s zagato
 aston martin,vantage,v12 vantage
-aston martin,vantage,v12 vantage s
 aston martin,vantage,v8 vantage
-aston martin,vantage,v8 vantage asm
-aston martin,vantage,v8 vantage s
 aston martin,vantage,vantage
-aston martin,vantage,vantage gt
-aston martin,vantage,vantage manual
 aston martin,vantage,vantage v12
 aston martin,vantage,vantage v8
-aston martin,vantage manual,vantage manual
 aston martin,virage,virage
-aston martin,virage,virage saloon
-aston martin,virage/volante,virage/volante
 audi,100,100
 audi,100,100 quattro
 audi,100,100 quattro wagon
@@ -144,157 +70,49 @@ audi,80/90,80/90 quattro
 audi,80/90,90
 audi,80/90,90 quattro
 audi,80/90,90 quattro 20v
+audi,a1,a1
 audi,a3,a3
-audi,a3,a3 cabriolet
-audi,a3,a3 cabriolet quattro
-audi,a3,a3 e-tron
-audi,a3,a3 e-tron ultra
-audi,a3,a3 quattro
 audi,a4,a4
-audi,a4,a4 allroad quattro
-audi,a4,a4 avant
-audi,a4,a4 avant quattro
-audi,a4,a4 cabriolet
-audi,a4,a4 cabriolet quattro
-audi,a4,a4 quattro
-audi,a4,a4 s line quattro
-audi,a4,a4 s-line quattro
-audi,a4,a4 ultra
-audi,a5,a5 cabriolet
-audi,a5,a5 cabriolet quattro
-audi,a5,a5 coupe quattro
-audi,a5,a5 quattro
-audi,a5,a5 sportback quattro
-audi,a5,a5 sportback s line quattro
-audi,a5,a5 sportback s-line quattro
+audi,a5,a5
 audi,a6,a6
-audi,a6,a6 allroad
-audi,a6,a6 allroad quattro
-audi,a6,a6 avant quattro
-audi,a6,a6 quattro
-audi,a6,a6 quattro wagon
-audi,a6,a6 wagon
-audi,a6,a6 wagon quattro
 audi,a7,a7
-audi,a7,a7 quattro
-audi,a7,a7 tfsi e quattro
 audi,a8,a8
-audi,a8,a8 l
-audi,a8,a8 l quattro
-audi,a8,a8 quattro
 audi,allroad,allroad
 audi,allroad,allroad quattro
 audi,cabriolet,cabriolet
 audi,coupe gt,coupe gt
 audi,coupe quattro,coupe quattro
 audi,e-tron,e-tron
-audi,e-tron,e-tron quattro
-audi,e-tron,e-tron sportback
-audi,e-tron,e-tron sportback quattro
-audi,e-tron gt,e-tron gt
-audi,e-tron s,e-tron s (20 inch wheels)
-audi,e-tron s,e-tron s (20in wheels)
-audi,e-tron s,e-tron s (21/22 inch wheels)
-audi,e-tron s,e-tron s sportback (20 inch wheels)
-audi,e-tron s,e-tron s sportback (21/22 inch wheels)
 audi,q3,q3
-audi,q3,q3 quattro
-audi,q3,q3 s line quattro
-audi,q3,q3 s-line
-audi,q3,q3 s-line quattro
-audi,q4 e-tron,q4 40 e-tron
-audi,q4 e-tron,q4 50 e-tron quattro
-audi,q4 e-tron,q4 55 e-tron quattro
-audi,q4 e-tron,q4 e-tron
-audi,q4 e-tron,q4 e-tron quattro
-audi,q4 e-tron,q4 e-tron sportback
-audi,q4 e-tron,q4 e-tron sportback quattro
-audi,q4 e-tron,q4 sportback 50 e-tron quattro
-audi,q4 e-tron,q4 sportback 55 e-tron quattro
+audi,q4,q4
 audi,q5,q5
-audi,q5,q5 hybrid
-audi,q5,q5 quattro
-audi,q5,q5 s line quattro
-audi,q5,q5 s-line quattro
-audi,q5,q5 sportback
-audi,q5,q5 sportback s line quattro
-audi,q5,q5 sportback s-line quattro
-audi,q5,q5 tfsi e quattro
 audi,q7,q7
-audi,q7,q7 quattro
 audi,q8,q8
-audi,q8,q8 quattro
-audi,q8 e-tron,q8 e-tron quattro
-audi,q8 e-tron,q8 sportback e-tron quattro
-audi,q8 e-tron,q8 sportback e-tron ultra quattro
 audi,quattro,quattro
 audi,r8,r8
-audi,r8,r8 2wd
-audi,r8,r8 awd
-audi,r8,r8 coupe
-audi,r8,r8 coupe quattro
-audi,r8,r8 coupe rwd
-audi,r8,r8 gt rwd
-audi,r8,r8 rwd
-audi,r8,r8 spyder
-audi,r8,r8 spyder 2wd
-audi,r8,r8 spyder awd
-audi,r8,r8 spyder quattro
-audi,r8,r8 spyder rwd
-audi,r8 spyder,r8 spyder
 audi,rs,rs 3
+audi,rs,rs 4
 audi,rs,rs 5
-audi,rs,rs 5 coupe
-audi,rs,rs 5 sportback
-audi,rs,rs 6 avant
+audi,rs,rs 6
 audi,rs,rs 7
-audi,rs,rs3
-audi,rs 3,rs 3
-audi,rs 4,rs4
-audi,rs 4,rs4 cabriolet
-audi,rs 5,rs 5
-audi,rs 5,rs 5 cabriolet
-audi,rs 6,rs6
-audi,rs 7,rs 7
-audi,rs e-tron gt,rs e-tron gt
-audi,rs q8,rs q8
 audi,s3,s3
 audi,s4,s4
-audi,s4,s4 avant
-audi,s4,s4 cabriolet
 audi,s5,s5
-audi,s5,s5 cabriolet
-audi,s5,s5 coupe
-audi,s5,s5 sportback
 audi,s6,s6
-audi,s6,s6 avant
-audi,s6,s6 wagon
 audi,s7,s7
 audi,s8,s8
-audi,s8,s8 quattro
 audi,sq5,sq5
-audi,sq5,sq5 sportback
 audi,sq7,sq7
 audi,sq8,sq8
 audi,sq8 e-tron,sq8 e-tron (20 inch wheels)
 audi,sq8 e-tron,sq8 e-tron (21/22 inch wheels)
 audi,sq8 e-tron,sq8 sportback e-tron (20 inch wheels)
 audi,sq8 e-tron,sq8 sportback e-tron (21/22 inch wheels)
+audi,tt,tt
 audi,tt,tt coupe
-audi,tt,tt coupe quattro
-audi,tt,tt roadster
-audi,tt,tt roadster quattro
 audi,tt,tt rs
-audi,tt coupe,tt coupe
-audi,tt coupe,tt coupe quattro
-audi,tt coupe,tt rs coupe
-audi,tt roadster,tt roadster
-audi,tt roadster,tt roadster quattro
-audi,tt rs,tt rs
-audi,tt rs,tt rs coupe
+audi,tt,tt roadster
 audi,tts,tts coupe
-audi,tts coupe,tts coupe
-audi,tts coupe,tts coupe quattro
 audi,v8,v8
 aurora cars ltd,aurora,aurora
 autokraft limited,a.c.mark iv,a.c.mark iv
@@ -339,10 +157,17 @@ bill dovell motor car company,dovell 230e,dovell 230e
 bitter gmbh and co. kg,bitter sc,bitter sc
 bitter gmbh and co. kg,sc,sc
 bmw,1 series,116i
+bmw,1 series,118i
 bmw,1 series,128i
 bmw,1 series,135i
-bmw,1 series,m1 coupe
+bmw,1 series,m135i
+bmw,2 series,216i
+bmw,2 series,216d
+bmw,2 series,218i
+bmw,2 series,218d
+bmw,2 series,220i
 bmw,2 series,228i
+bmw,2 series,225xe
 bmw,2 series,230i
 bmw,2 series,m235i
 bmw,2 series,m240i
@@ -642,10 +467,6 @@ bmw,m,m4 dtm champions edition
 bmw,m,m4 gts
 bmw,m,m440i xdrive coupe
 bmw,m,m5
-bmw,m,m5 competition
-bmw,m,m5 competition sedan
-bmw,m,m5 cs sedan
-bmw,m,m5 sedan
 bmw,m,m550i xdrive
 bmw,m,m6
 bmw,m,m6 convertible
@@ -671,46 +492,13 @@ bmw,x2,x2 m35i
 bmw,x2,x2 sdrive28i
 bmw,x2,x2 xdrive28i
 bmw,x3,x3
-bmw,x3,x3 3.0i
-bmw,x3,x3 3.0si
-bmw,x3,x3 m
-bmw,x3,x3 m competition
 bmw,x3,x3 m40i
-bmw,x3,x3 sdrive 28i
-bmw,x3,x3 sdrive28i
-bmw,x3,x3 sdrive30i
-bmw,x3,x3 xdrive28d
-bmw,x3,x3 xdrive28i
-bmw,x3,x3 xdrive30e
-bmw,x3,x3 xdrive30i
-bmw,x3,x3 xdrive35i
 bmw,x4,x4 m
-bmw,x4,x4 m competition
 bmw,x4,x4 m40i
-bmw,x4,x4 xdrive28i
-bmw,x4,x4 xdrive30i
-bmw,x4,x4 xdrive35i
 bmw,x5,x5
-bmw,x5,x5 3.0si
-bmw,x5,x5 4.6is
-bmw,x5,x5 4.8i
-bmw,x5,x5 4.8is
 bmw,x5,x5 m
-bmw,x5,x5 m competition
 bmw,x5,x5 m50i
-bmw,x5,x5 m60i xdrive
-bmw,x5,x5 sdrive35i
-bmw,x5,x5 sdrive40i
-bmw,x5,x5 xdrive 35d
-bmw,x5,x5 xdrive30i
-bmw,x5,x5 xdrive35d
-bmw,x5,x5 xdrive35i
-bmw,x5,x5 xdrive40e
-bmw,x5,x5 xdrive40i
-bmw,x5,x5 xdrive45e
-bmw,x5,x5 xdrive48i
-bmw,x5,x5 xdrive50i
-bmw,x5,x5 xdrivem
+bmw,x5,x5 m60i
 bmw,x6,x6 m
 bmw,x6,x6 m competition
 bmw,x6,x6 m50i
@@ -2315,27 +2103,6 @@ isuzu,trooper,trooper 2wd
 isuzu,trooper,trooper 4wd
 isuzu,vehicross,vehicross
 isuzu,vehicross,vehicross 4wd
-j.k. motors,190e 2.3 merc benz,190e 2.3 merc benz
-j.k. motors,230e merc benz,230e merc benz
-j.k. motors,300ce merc benz,300ce merc benz
-j.k. motors,300e merc benz,300e merc benz
-j.k. motors,300sl,300sl
-j.k. motors,300sl merc benz,300sl merc benz
-j.k. motors,300te merc benz,300te merc benz
-j.k. motors,bmw535i,bmw535i
-j.k. motors,bmw635csi,bmw635csi
-j.k. motors,bmw635l6,bmw635l6
-j.k. motors,bmw735i,bmw735i
-j.k. motors,bmw735il,bmw735il
-j.k. motors,merc benz 300ce,merc benz 300ce
-j.k. motors,merc benz 300e,merc benz 300e
-j.k. motors,merc benz 300se,merc benz 300se
-j.k. motors,merc benz 300sel,merc benz 300sel
-j.k. motors,merc benz 300te,merc benz 300te
-j.k. motors,merc.benz 260e,merc.benz 260e
-j.k. motors,merc.benz.300se,merc.benz.300se
-j.k. motors,porsche 928 s4,porsche 928 s4
-j.k. motors,testarossa,testarossa
 jaguar,e-pace,e-pace
 jaguar,e-pace,e-pace (296 hp)
 jaguar,e-pace,e-pace mhev
@@ -2930,6 +2697,7 @@ mazda,5,5
 mazda,6,6
 mazda,626,626
 mazda,929,929
+mazda,axela,axela
 mazda,b pickup,biante
 mazda,b pickup,2500
 mazda,b pickup,b2000
@@ -3008,10 +2776,8 @@ mercedes-benz,300,300ce
 mercedes-benz,300,300d
 mercedes-benz,300,300d 2.5 turbo
 mercedes-benz,300,300d/300cd
-mercedes-benz,300,300e
-mercedes-benz,300,300e 2.6
-mercedes-benz,300,300e 2.8
-mercedes-benz,300,300e 4matic
+mercedes-benz,300,e300e
+mercedes-benz,300,c300e
 mercedes-benz,300,300sd
 mercedes-benz,300,300sd/380se
 mercedes-benz,300,300sdl
@@ -3079,23 +2845,11 @@ mercedes-benz,c-class,c180
 mercedes-benz,c-class,c200
 mercedes-benz,c-class,c220
 mercedes-benz,c-class,c230
-mercedes-benz,c-class,c230 kompressor
-mercedes-benz,c-class,c230 kompressor sports coupe
 mercedes-benz,c-class,c240
-mercedes-benz,c-class,c240 (wagon)
-mercedes-benz,c-class,c240 4matic
-mercedes-benz,c-class,c240 4matic (wagon)
-mercedes-benz,c-class,c240 ffv
-mercedes-benz,c-class,c240 ffv (wagon)
+mercedes-benz,c-class,c240
 mercedes-benz,c-class,c250
-mercedes-benz,c-class,c250 coupe
 mercedes-benz,c-class,c280
-mercedes-benz,c-class,c280 4matic
 mercedes-benz,c-class,c300
-mercedes-benz,c-class,c300 4matic
-mercedes-benz,c-class,c300 4matic convertible
-mercedes-benz,c-class,c300 4matic coupe
-mercedes-benz,c-class,c300 convertible
 mercedes-benz,c-class,c300 coupe
 mercedes-benz,c-class,c32 amg
 mercedes-benz,c-class,c320
@@ -3168,87 +2922,28 @@ mercedes-benz,cls-class,cls63 amg
 mercedes-benz,cls-class,cls63 amg 4matic
 mercedes-benz,cls-class,cls63 amg s
 mercedes-benz,cls-class,cls63 amg s 4matic
-mercedes-benz,e-class,amg e43 4matic
-mercedes-benz,e-class,amg e53 4matic plus
-mercedes-benz,e-class,amg e53 4matic plus convertible
-mercedes-benz,e-class,amg e53 4matic plus coupe
-mercedes-benz,e-class,amg e63 4matic
-mercedes-benz,e-class,amg e63 s 4matic
-mercedes-benz,e-class,amg e63 s 4matic (wagon)
-mercedes-benz,e-class,amg e63 s 4matic plus
-mercedes-benz,e-class,amg e63 s 4matic plus (sw)
-mercedes-benz,e-class,amg e63 s 4matic plus (wagon)
+mercedes-benz,e-class,amg e43
+mercedes-benz,e-class,amg e53
+mercedes-benz,e-class,amg e63
 mercedes-benz,e-class,e200
 mercedes-benz,e-class,e300
-mercedes-benz,e-class,e300 4matic
-mercedes-benz,e-class,e300 diesel
-mercedes-benz,e-class,e300 turbodiesel
 mercedes-benz,e-class,e320
-mercedes-benz,e-class,e320 (wagon)
-mercedes-benz,e-class,e320 4matic
-mercedes-benz,e-class,e320 4matic (wagon)
-mercedes-benz,e-class,e320 bluetec
-mercedes-benz,e-class,e320 cdi
-mercedes-benz,e-class,e320 convertible
-mercedes-benz,e-class,e320 coupe
-mercedes-benz,e-class,e320 sedan
-mercedes-benz,e-class,e320 sedan 4matic
-mercedes-benz,e-class,e320 wagon
-mercedes-benz,e-class,e320 wagon 4matic
 mercedes-benz,e-class,e350
-mercedes-benz,e-class,e350 (wagon)
-mercedes-benz,e-class,e350 4matic
-mercedes-benz,e-class,e350 4matic (wagon)
-mercedes-benz,e-class,e350 4matic coupe
-mercedes-benz,e-class,e350 convertible
-mercedes-benz,e-class,e350 coupe
 mercedes-benz,e-class,e400
-mercedes-benz,e-class,e400 4matic
-mercedes-benz,e-class,e400 4matic (station wagon)
-mercedes-benz,e-class,e400 4matic convertible
-mercedes-benz,e-class,e400 4matic coupe
-mercedes-benz,e-class,e400 convertible
-mercedes-benz,e-class,e400 coupe
-mercedes-benz,e-class,e400 hybrid
 mercedes-benz,e-class,e420
 mercedes-benz,e-class,e430
-mercedes-benz,e-class,e430 4matic
-mercedes-benz,e-class,e450 4matic
-mercedes-benz,e-class,e450 4matic (station wagon)
-mercedes-benz,e-class,e450 4matic all-terrain (wagon)
-mercedes-benz,e-class,e450 4matic convertible
-mercedes-benz,e-class,e450 4matic coupe
-mercedes-benz,e-class,e450 convertible
-mercedes-benz,e-class,e450 coupe
+mercedes-benz,e-class,e450
 mercedes-benz,e-class,e500
-mercedes-benz,e-class,e500 (wagon)
-mercedes-benz,e-class,e500 4matic
-mercedes-benz,e-class,e500 4matic (wagon)
-mercedes-benz,e-class,e55 amg
-mercedes-benz,e-class,e55 amg (wagon)
+mercedes-benz,e-class,e55
 mercedes-benz,e-class,e550
-mercedes-benz,e-class,e550 4matic
-mercedes-benz,e-class,e550 convertible
-mercedes-benz,e-class,e550 coupe
 mercedes-benz,e-class,e63 amg
-mercedes-benz,e-class,e63 amg (wagon)
-mercedes-benz,e-class,e63 amg 4matic
-mercedes-benz,e-class,e63 amg 4matic (wagon)
-mercedes-benz,e-class,e63 amg s
-mercedes-benz,e-class,e63 amg s 4matic
-mercedes-benz,e-class,e63 amg s 4matic (wagon)
 mercedes-benz,eqb,eqb 250 plus
-mercedes-benz,eqb,eqb 300 4matic
-mercedes-benz,eqb,eqb 350 4matic
-mercedes-benz,eqe,amg eqe 4matic plus
-mercedes-benz,eqe,amg eqe 4matic plus (suv)
-mercedes-benz,eqe,eqe 350 4matic
-mercedes-benz,eqe,eqe 350 4matic (suv)
+mercedes-benz,eqb,eqb 300
+mercedes-benz,eqb,eqb 350
+mercedes-benz,eqe,amg eqe
+mercedes-benz,eqe,eqe 350
 mercedes-benz,eqe,eqe 350 plus
-mercedes-benz,eqe,eqe 350 plus (suv)
 mercedes-benz,eqe,eqe 500 4matic
-mercedes-benz,eqe,eqe 500 4matic (suv)
-mercedes-benz,eqs,amg eqs 4matic plus
 mercedes-benz,eqs,eqs 450 4matic
 mercedes-benz,eqs,eqs 450 4matic (suv)
 mercedes-benz,eqs,eqs 450 plus
@@ -3279,20 +2974,13 @@ mercedes-benz,gla-class,gla45 amg 4matic
 mercedes-benz,glb-class,amg glb35 4matic
 mercedes-benz,glb-class,glb250
 mercedes-benz,glb-class,glb250 4matic
-mercedes-benz,glc-class,amg glc43 4matic
-mercedes-benz,glc-class,amg glc43 4matic coupe
-mercedes-benz,glc-class,amg glc63 4matic
-mercedes-benz,glc-class,amg glc63 4matic coupe
-mercedes-benz,glc-class,amg glc63 4matic plus
-mercedes-benz,glc-class,amg glc63 4matic plus coupe
-mercedes-benz,glc-class,amg glc63 s 4matic coupe
-mercedes-benz,glc-class,amg glc63 s 4matic plus coupe
+mercedes-benz,glc-class,amg glc43
+mercedes-benz,glc-class,amg glc63
+mercedes-benz,glc-class,amg glc63 s
+mercedes-benz,glc-class,glc250
 mercedes-benz,glc-class,glc300
-mercedes-benz,glc-class,glc300 4matic
-mercedes-benz,glc-class,glc300 4matic coupe
 mercedes-benz,glc-class,glc350e 4matic
-mercedes-benz,gle-class,amg gle43 4matic
-mercedes-benz,gle-class,amg gle43 4matic coupe
+mercedes-benz,gle-class,amg gle43
 mercedes-benz,gle-class,amg gle53 4matic plus
 mercedes-benz,gle-class,amg gle53 4matic plus coupe
 mercedes-benz,gle-class,amg gle63
@@ -3314,11 +3002,11 @@ mercedes-benz,glk-class,glk350
 mercedes-benz,glk-class,glk350 4matic
 mercedes-benz,gls-class,amg gls63
 mercedes-benz,gls-class,amg gls63 4matic plus
-mercedes-benz,gls-class,gls450 4matic
-mercedes-benz,gls-class,gls550 4matic
-mercedes-benz,gls-class,gls580 4matic
-mercedes-benz,gls-class,gls600 4matic maybach
-mercedes-benz,maybach,maybach s 600
+mercedes-benz,gls-class,gls400
+mercedes-benz,gls-class,gls450
+mercedes-benz,gls-class,gls550
+mercedes-benz,gls-class,gls580
+mercedes-benz,gls-class,gls600
 mercedes-benz,maybach,maybach s550 4matic
 mercedes-benz,maybach,maybach s600
 mercedes-benz,maybach,maybach s650 convertible
@@ -4179,7 +3867,6 @@ spyker,c8,c8 spyder wide body
 srt,viper,viper
 sterling,825,825
 sterling,827,827
-sti,s209,s209
 subaru,ascent,ascent
 subaru,ascent,ascent limited/touring
 subaru,ascent,ascent limited/touring/onyx awd
@@ -4356,6 +4043,7 @@ tesla,model y,model y
 texas coach company,500se,500se
 toyota,4runner,4runner
 toyota,86,86
+toyota,gr,gr86
 toyota,avalon,avalon
 toyota,bz4x,bz4x
 toyota,c-hr,c-hr

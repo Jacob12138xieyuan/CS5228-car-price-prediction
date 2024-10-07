@@ -338,74 +338,31 @@ bill dovell motor car company,dovell 230ce,dovell 230ce
 bill dovell motor car company,dovell 230e,dovell 230e
 bitter gmbh and co. kg,bitter sc,bitter sc
 bitter gmbh and co. kg,sc,sc
-bmw,1 series,128ci convertible
+bmw,1 series,116i
 bmw,1 series,128i
-bmw,1 series,128i convertible
 bmw,1 series,135i
-bmw,1 series,135i convertible
 bmw,1 series,m1 coupe
 bmw,2 series,228i
-bmw,2 series,228i convertible
-bmw,2 series,228i gran coupe
-bmw,2 series,228i xdrive
-bmw,2 series,228i xdrive convertible
-bmw,2 series,228i xdrive gran coupe
-bmw,2 series,230i convertible
-bmw,2 series,230i coupe
-bmw,2 series,230i xdrive convertible
-bmw,2 series,230i xdrive coupe
+bmw,2 series,230i
 bmw,2 series,m235i
-bmw,2 series,m235i convertible
-bmw,2 series,m235i xdrive
-bmw,2 series,m235i xdrive convertible
-bmw,2 series,m235i xdrive gran coupe
-bmw,2 series,m240i convertible
-bmw,2 series,m240i coupe
-bmw,2 series,m240i xdrive convertible
-bmw,2 series,m240i xdrive coupe
-bmw,3 series,3 series
+bmw,2 series,m240i
 bmw,3 series,318i
-bmw,3 series,318i convertible
-bmw,3 series,318i/318is
-bmw,3 series,318is
-bmw,3 series,318is convertible
-bmw,3 series,318ti
 bmw,3 series,320i
-bmw,3 series,320i xdrive
 bmw,3 series,323ci
 bmw,3 series,323i
-bmw,3 series,323i convertible
-bmw,3 series,323i touring
 bmw,3 series,323is
 bmw,3 series,325ci
-bmw,3 series,325ci convertible
 bmw,3 series,325i
-bmw,3 series,325i convertible
-bmw,3 series,325i sport wagon
-bmw,3 series,325i/325is
 bmw,3 series,325ic
 bmw,3 series,325is
 bmw,3 series,325ix
 bmw,3 series,325xi
-bmw,3 series,325xi sport wagon
 bmw,3 series,328ci
-bmw,3 series,328ci convertible
-bmw,3 series,328ci xdrive
 bmw,3 series,328cxi
 bmw,3 series,328d
 bmw,3 series,328d xdrive
 bmw,3 series,328d xdrive sports wagon
 bmw,3 series,328i
-bmw,3 series,328i convertible
-bmw,3 series,328i coupe
-bmw,3 series,328i coupe xdrive
-bmw,3 series,328i sport wagon
-bmw,3 series,328i sport wagon xdrive
-bmw,3 series,328i sports wagon
-bmw,3 series,328i xdrive
-bmw,3 series,328i xdrive gran turismo
-bmw,3 series,328i xdrive sport wagon
-bmw,3 series,328i xdrive sports wagon
 bmw,3 series,328i/328is
 bmw,3 series,328ic
 bmw,3 series,328is
@@ -520,7 +477,7 @@ bmw,5 series,550i xdrive gran turismo
 bmw,5 series,550i xdrive gt
 bmw,5 series,activehybrid 5
 bmw,5 series,m550i xdrive sedan
-bmw,6 series,6 series
+bmw,6 series,630ci
 bmw,6 series,635csi
 bmw,6 series,640i convertible
 bmw,6 series,640i coupe
@@ -1272,6 +1229,14 @@ chrysler,town and country/voyager/grand voyager,town and country/voyager/grand v
 chrysler,town and country/voyager/grand voyager,town and country/voyager/grand voy. awd
 chrysler,voyager,voyager
 chrysler,voyager/town and country,voyager/town and country 2wd
+citroen,berlingo,berlingo
+citroen,c3,c3
+citroen,c4,c4
+citroen,c5,c5
+citroen,dispatch,dispatch
+citroen,ds3,ds3
+citroen,ds4,ds4
+citroen,ds5,ds5
 coda automotive,coda,coda
 consulier industries inc,consulier gtp,consulier gtp
 cx automotive,cx,cx 25 gti
@@ -2691,82 +2656,15 @@ lamborghini,urus,urus performante
 lamborghini,urus,urus s
 lamborghini,veneno,veneno roadster
 land rover,defender,defender 110
-land rover,defender,defender 110 mhev
-land rover,defender,defender 130 outbound
-land rover,defender,defender 130 p300 mhev
-land rover,defender,defender 130 p400 mhev
+land rover,defender,defender 130
 land rover,defender,defender 90
-land rover,defender,defender 90 mhev
 land rover,discovery,discovery
-land rover,discovery,discovery mhev
-land rover,discovery,discovery series ii
-land rover,discovery,discovery sport
-land rover,discovery,discovery sport (286 hp)
-land rover,discovery,discovery sport mhev
-land rover,discovery,discovery sport si4
-land rover,discovery sport,discovery sport
 land rover,evoque,evoque
-land rover,evoque,evoque mhev
 land rover,freelander,freelander
-land rover,freelander,freelander 3 door
-land rover,freelander,freelander 5 door
 land rover,lr2,lr2
 land rover,lr3,lr3
 land rover,lr4,lr4
-land rover,range rover,new range rover
-land rover,range rover,new range rover lwb
-land rover,range rover,new range rover p360 lwb mhev
-land rover,range rover,new range rover p360 mhev
-land rover,range rover,new range rover p400 lwb mhev
-land rover,range rover,new range rover p400 mhev
-land rover,range rover,new range rover p440 phev
-land rover,range rover,new range rover sport
-land rover,range rover,new range rover sport p360 mhev
-land rover,range rover,new range rover sport p400 mhev
-land rover,range rover,new range rover sport p440 phev
 land rover,range rover,range rover
-land rover,range rover,range rover 4.0
-land rover,range rover,range rover 4.6
-land rover,range rover,range rover county
-land rover,range rover,range rover county classic
-land rover,range rover,range rover county lwb
-land rover,range rover,range rover evoque
-land rover,range rover,range rover evoque (286 hp)
-land rover,range rover,range rover evoque 237hp
-land rover,range rover,range rover evoque 286hp
-land rover,range rover,range rover evoque cabriolet
-land rover,range rover,range rover evoque convertible
-land rover,range rover,range rover evoque mhev
-land rover,range rover,range rover ffv
-land rover,range rover,range rover l ffv
-land rover,range rover,range rover lwb
-land rover,range rover,range rover lwb mhev
-land rover,range rover,range rover lwb sva
-land rover,range rover,range rover mhev
-land rover,range rover,range rover p360 lwb mhev
-land rover,range rover,range rover p360 mhev
-land rover,range rover,range rover p400 lwb mhev
-land rover,range rover,range rover p400 mhev
-land rover,range rover,range rover phev
-land rover,range rover,range rover sport
-land rover,range rover,range rover sport ffv
-land rover,range rover,range rover sport mhev
-land rover,range rover,range rover sport p360 mhev
-land rover,range rover,range rover sport p400 mhev
-land rover,range rover,range rover sport phev
-land rover,range rover,range rover sport svr
-land rover,range rover,range rover sport svr mhev
-land rover,range rover,range rover sport tdv6
-land rover,range rover,range rover sv coupe
-land rover,range rover,range rover sv lwb mhev
-land rover,range rover,range rover sv mhev
-land rover,range rover,range rover sva
-land rover,range rover,range rover tdv6
-land rover,range rover,range rover velar
-land rover,range rover,range rover velar p300
-land rover,range rover,range rover velar p340 mhev
-land rover,range rover,range rover velar p380
-land rover,range rover,range rover velar p400 mhev
 lexus,ct,ct 200h
 lexus,es,es 250
 lexus,es,es 250 awd
@@ -3027,28 +2925,14 @@ maybach,62,62s
 maybach,landaulet,landaulet
 mazda,2,2
 mazda,3,3
-mazda,3,3 4-door
-mazda,3,3 4-door 2wd
-mazda,3,3 4-door 4wd
-mazda,3,3 5-door
-mazda,3,3 5-door 2wd
-mazda,3,3 5-door 4wd
-mazda,3,3 di 4-door
-mazda,3,3 di 5-door
 mazda,323,323
-mazda,323,323 wagon
-mazda,323 protege,323 protege 4x4
-mazda,323 protege,323/323 protege
 mazda,5,5
 mazda,6,6
-mazda,6,6 sport wagon
 mazda,626,626
-mazda,626/mx-6,626/mx-6
 mazda,929,929
+mazda,b pickup,biante
 mazda,b pickup,2500 2wd
 mazda,b pickup,b2000
-mazda,b pickup,b2000/b2200 pickup 2wd
-mazda,b pickup,b2000/b2200/b2600
 mazda,b pickup,b2200/b2600
 mazda,b pickup,b2200/b2600i
 mazda,b pickup,b2300 2wd
@@ -3070,44 +2954,28 @@ mazda,b pickup,b3000 ffv 4wd
 mazda,b pickup,b4000
 mazda,b pickup,b4000 2wd
 mazda,b pickup,b4000 4wd
-mazda,cx-3,cx-3 2wd
-mazda,cx-3,cx-3 4wd
-mazda,cx-30,cx-30 2wd
-mazda,cx-30,cx-30 4wd
-mazda,cx-5,cx-5 2wd
-mazda,cx-5,cx-5 4wd
-mazda,cx-50,cx-50 4wd
-mazda,cx-7,cx-7 2wd
-mazda,cx-7,cx-7 4wd
-mazda,cx-9,cx-9 2wd
-mazda,cx-9,cx-9 4wd
-mazda,cx-90,cx-90 4wd
+mazda,cx-3,cx-3
+mazda,cx-30,cx-30
+mazda,cx-5,cx-5
+mazda,cx-50,cx-50
+mazda,cx-7,cx-7
+mazda,cx-8,cx-8
+mazda,cx-9,cx-9
+mazda,cx-90,cx-90
 mazda,glc,glc
-mazda,glc,glc wagon
 mazda,millenia,millenia
 mazda,mpv,mpv
-mazda,mpv,mpv 4wd
-mazda,mpv,mpv 4x4
 mazda,mx-3,mx-3
 mazda,mx-30,mx-30
 mazda,mx-5,mx-5
 mazda,mx-5 miata,mx-5 miata
 mazda,mx-6,mx-6
 mazda,navajo,navajo
-mazda,navajo,navajo 4x4
 mazda,protege,protege
-mazda,protege/protege 5,protege/protege 5
-mazda,protege/protege mps,protege/protege mps
 mazda,rx-7,rx-7
 mazda,rx-8,rx-8
 mazda,speed 3,speed 3
-mazda,tribute,tribute 2wd
-mazda,tribute,tribute 4wd
-mazda,tribute,tribute 4wd ffv
-mazda,tribute,tribute fwd
-mazda,tribute,tribute fwd ffv
-mazda,tribute,tribute hybrid 2wd
-mazda,tribute,tribute hybrid 4wd
+mazda,tribute,tribute
 mcevoy motors,240 dl/240 gl sedan,240 dl/240 gl sedan
 mcevoy motors,240 dl/240 gl wagon,240 dl/240 gl wagon
 mcevoy motors,740 gle sedan,740 gle sedan

@@ -3537,63 +3537,31 @@ mini,roadster,cooper roadster
 mini,roadster,cooper s roadster
 mini,roadster,john cooper works roadster
 mitsubishi,3000 gt,3000 gt
-mitsubishi,3000 gt spyder,3000 gt spyder
 mitsubishi,cordia,cordia
 mitsubishi,diamante,diamante
-mitsubishi,diamante,diamante sedan
-mitsubishi,diamante,diamante wagon
 mitsubishi,eclipse,eclipse
-mitsubishi,eclipse,eclipse convertible
 mitsubishi,eclipse,eclipse spyder
-mitsubishi,eclipse cross,eclipse cross 2wd
-mitsubishi,eclipse cross,eclipse cross 4wd
-mitsubishi,eclipse cross,eclipse cross es 2wd
-mitsubishi,eclipse cross,eclipse cross es 4wd
+mitsubishi,eclipse cross,eclipse cross
 mitsubishi,endeavor,endeavor
-mitsubishi,endeavor,endeavor 2wd
-mitsubishi,endeavor,endeavor 4wd
-mitsubishi,endeavor,endeavor awd
 mitsubishi,expo,expo
-mitsubishi,expo,expo.lrv
 mitsubishi,galant,galant
-mitsubishi,galant,galant sigma
 mitsubishi,i-miev,i-miev
 mitsubishi,lancer,lancer
-mitsubishi,lancer,lancer 4wd
-mitsubishi,lancer,lancer awd
-mitsubishi,lancer,lancer evolution
-mitsubishi,lancer,lancer sportback
+mitsubishi,lancer,evolution
 mitsubishi,mirage,mirage
-mitsubishi,mirage,mirage g4
-mitsubishi,mirage,mirage wagon
 mitsubishi,montero,montero
-mitsubishi,montero,montero 4wd
-mitsubishi,montero sport,montero sport 2wd
-mitsubishi,montero sport,montero sport 4wd
-mitsubishi,nativa,nativa 2wd
-mitsubishi,nativa,nativa 2wd (puerto rico only)
-mitsubishi,nativa,nativa 2wd(puerto rico only)
-mitsubishi,nativa,nativa 4wd
-mitsubishi,nativa,nativa 4wd (puerto rico only)
-mitsubishi,outlander,outlander 2wd
-mitsubishi,outlander,outlander 4wd
-mitsubishi,outlander,outlander phev
-mitsubishi,outlander,outlander sport 2wd
-mitsubishi,outlander,outlander sport 4wd
+mitsubishi,nativa,nativa
+mitsubishi,outlander,outlander
 mitsubishi,precis,precis
-mitsubishi,raider pickup,raider pickup 2wd
-mitsubishi,raider pickup,raider pickup 4wd
+mitsubishi,raider pickup,raider pickup
 mitsubishi,sigma,sigma
 mitsubishi,space wagon,space wagon
-mitsubishi,space wagon,space wagon 4wd
 mitsubishi,starion,starion
 mitsubishi,tredia,tredia
-mitsubishi,truck,truck 2wd
-mitsubishi,truck,truck 4wd
+mitsubishi,truck,truck
 mitsubishi,van,van
 mitsubishi,wagon,wagon
 mobility ventures llc,mv-1,mv-1
-mobility ventures llc,mv-1,mv-1 cng
 morgan,plus eight,plus eight
 nissan,200sx,200sx
 nissan,240sx,240sx
@@ -3884,46 +3852,14 @@ pontiac,vibe,vibe
 pontiac,vibe,vibe awd
 pontiac,wave,wave
 pontiac,wave,wave 5
-porsche,718,718 boxster
-porsche,718,718 boxster gts
-porsche,718,718 boxster s
-porsche,718,718 boxster t
-porsche,718,718 cayman
-porsche,718,718 cayman gt4
-porsche,718,718 cayman gts
-porsche,718,718 cayman s
-porsche,718,718 cayman t
-porsche,718,718 gt4 rs
-porsche,718,718 spyder
-porsche,718,718 spyder rs
+porsche,718,718
 porsche,911,911
 porsche,911,911 c4 gts
-porsche,911,911 c4 gts cabriolet
 porsche,911,911 carrera
-porsche,911,911 carrera 2/4
-porsche,911,911 carrera 4
-porsche,911,911 carrera 4 cabriolet
-porsche,911,911 carrera 4 gts
-porsche,911,911 carrera 4 gts cabriolet
-porsche,911,911 carrera 4 targa
-porsche,911,911 carrera 4/2
-porsche,911,911 carrera 4s
-porsche,911,911 carrera 4s cabriolet
-porsche,911,911 carrera 4s targa
-porsche,911,911 carrera cabriolet
-porsche,911,911 carrera gts
-porsche,911,911 carrera gts cabriolet
-porsche,911,911 carrera s
-porsche,911,911 carrera s cabriolet
-porsche,911,911 carrera t
 porsche,911,911 dakar
 porsche,911,911 gt2
-porsche,911,911 gt2 rs
 porsche,911,911 gt3
-porsche,911,911 gt3 rs
-porsche,911,911 gt3 touring
 porsche,911,911 gts
-porsche,911,911 gts cabriolet
 porsche,911,911 r
 porsche,911,911 s/t
 porsche,911,911 sc
@@ -3931,24 +3867,12 @@ porsche,911,911 speedster
 porsche,911,911 sport classic
 porsche,911,911 targa
 porsche,911,911 targa 4
-porsche,911,911 targa 4 gts
-porsche,911,911 targa 4s
 porsche,911,911 turbo
-porsche,911,911 turbo cabriolet
-porsche,911,911 turbo coupe
-porsche,911,911 turbo s
-porsche,911,911 turbo s cabriolet
-porsche,911,911 turbo s coupe
-porsche,911,911 turbo s exclusive
-porsche,911,911 turbo s exclusive cabriolet
 porsche,918 spyder,918 spyder
 porsche,924,924 s
-porsche,928,928 gts
-porsche,928,928 s
+porsche,928,928
 porsche,928,928 s4
 porsche,944,944
-porsche,944,944 s
-porsche,944,944 s2
 porsche,944,944 turbo
 porsche,968,968
 porsche,boxster,boxster
@@ -3957,49 +3881,20 @@ porsche,boxster,boxster s
 porsche,boxster,boxster spyder
 porsche,boxster,boxster t
 porsche,carrera,carrera
-porsche,carrera 2 911 gt3,carrera 2 911 gt3
-porsche,carrera 2 cabriolet,carrera 2 cabriolet
-porsche,carrera 2 cabriolet kit,carrera 2 cabriolet kit
-porsche,carrera 2 coupe,carrera 2 coupe
-porsche,carrera 2 coupe kit,carrera 2 coupe kit
-porsche,carrera 2 s cabriolet,carrera 2 s cabriolet
-porsche,carrera 2 s coupe,carrera 2 s coupe
-porsche,carrera 4,carrera 4
-porsche,carrera 4 cabriolet,carrera 4 cabriolet
-porsche,carrera 4 cabriolet kit,carrera 4 cabriolet kit
-porsche,carrera 4 coupe,carrera 4 coupe
-porsche,carrera 4 s,carrera 4 s
-porsche,carrera 4 s cabriolet,carrera 4 s cabriolet
-porsche,carrera 4 s cabriolet kit,carrera 4 s cabriolet kit
-porsche,carrera 4 s coupe,carrera 4 s coupe
-porsche,carrera 4 s kit,carrera 4 s kit
-porsche,carrera 4 s targa,carrera 4 s targa
-porsche,carrera 4 targa,carrera 4 targa
 porsche,carrera gt,carrera gt
 porsche,cayenne,cayenne
-porsche,cayenne,cayenne / cayenne coupe
 porsche,cayenne,cayenne coupe
 porsche,cayenne,cayenne diesel
 porsche,cayenne,cayenne e-hybrid
-porsche,cayenne,cayenne e-hybrid coupe
 porsche,cayenne,cayenne gts
-porsche,cayenne,cayenne gts coupe
 porsche,cayenne,cayenne platinum
 porsche,cayenne,cayenne s
-porsche,cayenne,cayenne s coupe
-porsche,cayenne,cayenne s e-hybrid
-porsche,cayenne,cayenne s hybrid
 porsche,cayenne,cayenne transsiberia
 porsche,cayenne,cayenne turbo
 porsche,cayenne,cayenne turbo coupe
 porsche,cayenne,cayenne turbo gt
-porsche,cayenne,cayenne turbo gt coupe
 porsche,cayenne,cayenne turbo kit
 porsche,cayenne,cayenne turbo s
-porsche,cayenne,cayenne turbo s e-hybrid
-porsche,cayenne,cayenne turbo s e-hybrid coupe
-porsche,cayenne,cayenne turbo s/coupe e-hybrid
-porsche,cayenne,cayenne/coupe e-hybrid
 porsche,cayman,cayman
 porsche,cayman,cayman gt4
 porsche,cayman,cayman gts
@@ -4011,91 +3906,30 @@ porsche,macan,macan gts
 porsche,macan,macan s
 porsche,macan,macan t
 porsche,macan,macan turbo
-porsche,macan,macan turbo kit
 porsche,new 911 carrera,new 911 carrera
-porsche,new 911 carrera,new 911 carrera cabriolet
 porsche,new 911 carrera,new 911 carrera s
-porsche,new 911 carrera,new 911 carrera s cabriolet
 porsche,panamera,panamera
 porsche,panamera,panamera 4
-porsche,panamera,panamera 4 e-hybrid
-porsche,panamera,panamera 4 e-hybrid executive
-porsche,panamera,panamera 4 e-hybrid st
-porsche,panamera,panamera 4 e-hybrid/exec/st
-porsche,panamera,panamera 4 executive
-porsche,panamera,panamera 4 st
 porsche,panamera,panamera 4s
-porsche,panamera,panamera 4s e-hybrid
-porsche,panamera,panamera 4s e-hybrid executive
-porsche,panamera,panamera 4s e-hybrid st
-porsche,panamera,panamera 4s e-hybrid/exec/st
-porsche,panamera,panamera 4s executive
-porsche,panamera,panamera 4s st
 porsche,panamera,panamera gts
 porsche,panamera,panamera gts st
 porsche,panamera,panamera s
-porsche,panamera,panamera s e-hybrid
 porsche,panamera,panamera s hybrid
 porsche,panamera,panamera turbo
-porsche,panamera,panamera turbo exec
-porsche,panamera,panamera turbo executive
 porsche,panamera,panamera turbo s
-porsche,panamera,panamera turbo s e-hybrid
-porsche,panamera,panamera turbo s e-hybrid executive
-porsche,panamera,panamera turbo s e-hybrid st
-porsche,panamera,panamera turbo s e-hybrid/exec/st
-porsche,panamera,panamera turbo s executive
-porsche,panamera,panamera turbo s st
-porsche,panamera,panamera turbo s/exec/st
 porsche,panamera,panamera turbo st
 porsche,targa,targa
-porsche,targa,targa kit
-porsche,taycan,taycan 4 cross turismo
-porsche,taycan,taycan 4s cross turismo
-porsche,taycan,taycan 4s perf battery
-porsche,taycan,taycan 4s perf battery plus
-porsche,taycan,taycan 4s performance battery
-porsche,taycan,taycan 4s performance battery plus
+porsche,taycan,taycan 4
 porsche,taycan,taycan gts
-porsche,taycan,taycan gts sport turismo
-porsche,taycan,taycan gts st
-porsche,taycan,taycan perf battery
-porsche,taycan,taycan perf battery plus
-porsche,taycan,taycan performance battery
-porsche,taycan,taycan performance battery plus
 porsche,taycan,taycan turbo
-porsche,taycan,taycan turbo cross turismo
 porsche,taycan,taycan turbo s
-porsche,taycan,taycan turbo s cross turismo
-porsche,turbo,turbo
-porsche,turbo 2 911 gt2,turbo 2 911 gt2
-porsche,turbo 4 911,turbo 4 911
-porsche,turbo 4 911 cab,turbo 4 911 cab
-porsche,turbo 4 911 cab kit,turbo 4 911 cab kit
-porsche,turbo 4 911 kit,turbo 4 911 kit
-porsche,turbo 4 911 s,turbo 4 911 s
-porsche,turbo 4 911 turbo,turbo 4 911 turbo
-porsche,turbo 4 911 turbo cab s,turbo 4 911 turbo cab s
-porsche,turbo gt2,turbo gt2
-porsche,turbo kit,turbo kit
 quantum technologies,chevrolet cavalier,chevrolet cavalier
 qvale,detomaso mangusta,detomaso mangusta
-ram,1500,1500 2wd
-ram,1500,1500 4wd
-ram,1500,1500 classic 2wd
-ram,1500,1500 classic 4wd
-ram,1500,1500 hfe 2wd
-ram,1500,1500 ho 4wd
-ram,1500,1500 rho 4wd
-ram,1500,1500 trx 4wd
+ram,1500,1500
 ram,c/v,c/v
-ram,c/v,c/v cargo van
-ram,c/v,c/v tradesman
 ram,promaster city,promaster city
 red shift ltd.,delta 204t,delta 204t
 renault,18i/wagon/sportwagon,18i
-renault,18i/wagon/sportwagon,18i 4dr wagon
-renault,18i/wagon/sportwagon,18i sportwagon
 renault,18i/wagon/sportwagon,sportwagon
 renault,alliance/encore,alliance
 renault,alliance/encore,alliance convertible
@@ -4515,80 +4349,11 @@ suzuki,xl7,xl7 fwd
 "tecstar, lp",foose f150,foose f150 super cab 4wd
 "tecstar, lp",foose f150,foose f150 super crew 2wd
 "tecstar, lp",foose f150,foose f150 super crew 4wd
-tesla,model 3,model 3 long range
-tesla,model 3,model 3 long range  awd
-tesla,model 3,model 3 long range  awd performance
-tesla,model 3,model 3 long range awd
-tesla,model 3,model 3 long range awd performance
-tesla,model 3,model 3 long range performance awd (18in)
-tesla,model 3,model 3 long range performance awd (19in)
-tesla,model 3,model 3 long range performance awd (20in)
-tesla,model 3,model 3 mid range
-tesla,model 3,model 3 performance awd
-tesla,model 3,model 3 rwd
-tesla,model 3,model 3 standard range
-tesla,model 3,model 3 standard range plus
-tesla,model 3,model 3 standard range plus rwd
+tesla,model 3,model 3
 tesla,model s,model s
-tesla,model s,model s (40 kw-hr battery pack)
-tesla,model s,model s (60 kw-hr battery pack)
-tesla,model s,model s (70 kw-hr battery pack)
-tesla,model s,model s (75 kw-hr battery pack)
-tesla,model s,model s (85 kw-hr battery pack)
-tesla,model s,model s (90 kw-hr battery pack)
-tesla,model s,model s 100d
-tesla,model s,model s 75d
-tesla,model s,model s 75kwh
-tesla,model s,model s awd (85 kw-hr battery pack)
-tesla,model s,model s awd - 100d
-tesla,model s,model s awd - 60d
-tesla,model s,model s awd - 70d
-tesla,model s,model s awd - 75d
-tesla,model s,model s awd - 85d
-tesla,model s,model s awd - 90d
-tesla,model s,model s awd - p100d
-tesla,model s,model s awd - p85d
-tesla,model s,model s awd - p90d
-tesla,model s,model s long range
-tesla,model s,model s long range plus
-tesla,model s,model s p100d
-tesla,model s,model s performance (19in wheels)
-tesla,model s,model s performance (21in wheels)
-tesla,model s,model s plaid (19 inch wheels)
-tesla,model s,model s plaid (19in wheels)
-tesla,model s,model s plaid (21 inch wheels)
-tesla,model s,model s plaid (21in wheels)
-tesla,model s,model s plaid (21inch wheels)
-tesla,model s,model s standard range
 tesla,model x,model x
-tesla,model x,model x 100d
-tesla,model x,model x 75d
-tesla,model x,model x awd - 100d
-tesla,model x,model x awd - 60d
-tesla,model x,model x awd - 75d
-tesla,model x,model x awd - 90d
-tesla,model x,model x awd - p100d
-tesla,model x,model x awd - p90d
-tesla,model x,model x long range
-tesla,model x,model x long range plus
-tesla,model x,model x p100d
-tesla,model x,model x performance (20in wheels)
-tesla,model x,model x performance (22in wheels)
-tesla,model x,model x plaid (20 inch wheels)
-tesla,model x,model x plaid (20in wheels)
-tesla,model x,model x plaid (22 inch wheels)
-tesla,model x,model x plaid (22in wheels)
-tesla,model x,model x standard range
-tesla,model y,model y awd
-tesla,model y,model y long range awd
-tesla,model y,model y performance awd
-tesla,model y,model y performance awd (21in wheels)
-tesla,model y,model y rwd
-tesla,model y,model y standard range rwd
+tesla,model y,model y
 texas coach company,500se,500se
-texas coach company,500sec,500 sec
-texas coach company,500sel,500sel
-texas coach company,500sl,500sl
 toyota,4runner,4runner
 toyota,86,86
 toyota,avalon,avalon
@@ -4598,97 +4363,42 @@ toyota,cab chassis,cab chassis
 toyota,camry,camry
 toyota,celica,celica
 toyota,corolla,corolla
+toyota,corolla,corolla altis
 toyota,corolla cross,corolla cross
 toyota,cressida,cressida
 toyota,crown,crown awd
 toyota,echo,echo
-toyota,fj cruiser,fj cruiser 2wd
-toyota,fj cruiser,fj cruiser 4wd
+toyota,fj cruiser,fj cruiser
 toyota,gr 86,gr 86
 toyota,gr supra,gr supra
-toyota,grand highlander,grand highlander awd le/xle
-toyota,grand highlander,grand highlander awd limited/platinum
-toyota,grand highlander,grand highlander hybrid
-toyota,grand highlander,grand highlander hybrid awd
-toyota,grand highlander,grand highlander hybrid limited
-toyota,grand highlander,grand highlander le/xle
-toyota,grand highlander,grand highlander limited
 toyota,highlander,highlander
-toyota,highlander,highlander 2wd
-toyota,highlander,highlander 4wd
-toyota,highlander,highlander awd
-toyota,highlander,highlander awd le
-toyota,highlander,highlander hybrid
-toyota,highlander,highlander hybrid 2wd
-toyota,highlander,highlander hybrid 4wd
-toyota,highlander,highlander hybrid awd
-toyota,highlander,highlander hybrid awd le plus
-toyota,highlander,highlander hybrid awd ltd/plat
-toyota,highlander,highlander le/xle/se/ltd
 toyota,land cruiser,land cruiser
-toyota,land cruiser,land cruiser wagon 4wd
 toyota,matrix,matrix
-toyota,matrix,matrix awd
 toyota,mirai,mirai
-toyota,mirai,mirai le
 toyota,mirai,mirai limited
-toyota,mirai,mirai xle
 toyota,mr2,mr2
 toyota,paseo,paseo
-toyota,paseo,paseo convertible
 toyota,previa,previa
-toyota,previa,previa all-trac
 toyota,prius,prius
-toyota,prius,prius awd
-toyota,prius,prius awd xle/ltd
 toyota,prius,prius c
 toyota,prius,prius eco
-toyota,prius,prius plug-in hybrid
-toyota,prius,prius xle/ltd
 toyota,prius c,prius c
 toyota,prius prime,prius prime
 toyota,prius prime,prius prime se
 toyota,prius v,prius v
 toyota,rav4,rav4
-toyota,rav4,rav4 2wd
-toyota,rav4,rav4 4wd
-toyota,rav4,rav4 awd
-toyota,rav4,rav4 awd le
-toyota,rav4,rav4 awd trd offroad
 toyota,rav4,rav4 ev
-toyota,rav4,rav4 hybrid  awd
-toyota,rav4,rav4 hybrid awd
-toyota,rav4,rav4 hybrid awd woodland edition
-toyota,rav4,rav4 le/xle
-toyota,rav4,rav4 limited awd
-toyota,rav4,rav4 limited awd/se awd
-toyota,rav4,rav4 soft top 2wd
-toyota,rav4,rav4 soft top 4wd
+toyota,rav4,rav4 hybrid
 toyota,rav4 prime,rav4 prime 4wd
-toyota,sequoia,sequoia 2wd
-toyota,sequoia,sequoia 4wd
-toyota,sequoia,sequoia 4wd ffv
-toyota,sienna,sienna 2wd
-toyota,sienna,sienna 4wd
-toyota,sienna,sienna awd
-toyota,sienna,sienna hybrid 2wd
-toyota,sienna,sienna hybrid awd
+toyota,sequoia,sequoia
+toyota,sienna,sienna
+toyota,sienna,sienna hybrid
 toyota,starlet,starlet
 toyota,supra,supra
-toyota,tacoma,tacoma 2wd
-toyota,tacoma,tacoma 4wd
-toyota,tacoma,tacoma 4wd d-cab mt trd-orp/pro
-toyota,tacoma,tacoma 4wd double cab
-toyota,tacoma,tacoma 4wd double cab off-road
-toyota,tacoma,tacoma 4wd mt
-toyota,tacoma,tacoma 4wd trd pro
-toyota,tacoma,tacoma sr5/sport/off-road/limited 4wd
-toyota,tacoma,tacoma sr5/sport/prerunner 2wd
+toyota,tacoma,tacoma
 toyota,tercel,tercel
 toyota,tercel,tercel ez
 toyota,tercel,tercel wagon
-toyota,tercel,tercel wagon 2wd
-toyota,tercel,tercel wagon 4wd
 toyota,truck/t100,1-ton truck 2wd
 toyota,truck/t100,t100 2wd
 toyota,truck/t100,t100 4wd

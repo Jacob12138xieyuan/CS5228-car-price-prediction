@@ -1,4 +1,14 @@
 Make,baseModel,Model
+alfa romeo,164,164
+alfa romeo,4c,4c
+alfa romeo,giulia,giulia
+alfa romeo,gt,gt v6 2.5
+alfa romeo,gtv,gtv
+alfa romeo,milano,milano
+alfa romeo,spider,spider
+alfa romeo,spider,spider veloce 2000
+alfa romeo,stelvio,stelvio
+alfa romeo,tonale eawd,tonale eawd
 aston martin,db ar1,db ar1
 aston martin,db-7 gt,db-7 gt coupe
 aston martin,db-7 gt,db-7 gt volante
@@ -1492,10 +1502,13 @@ honda,cr-z,cr-z
 honda,crosstour,crosstour
 honda,del sol,del sol
 honda,element,element
+honda,edix,edix
 honda,ev plus,ev plus
 honda,fit,fit
 honda,fit,fit hybrid
 honda,fit,fit ev
+honda,freed,freed
+honda,freed,freed hybrid
 honda,hr-v,hr-v
 honda,insight,insight
 honda,jade,jade
@@ -1513,6 +1526,7 @@ honda,ridgeline,ridgeline awd trailsport
 honda,ridgeline,ridgeline fwd
 honda,ridgeline,ridgeline truck 4wd
 honda,s2000,s2000
+honda,stream,stream
 honda,stepwagon,stepwagon
 honda,zr-v,zr-v
 hummer,h3,h3 4wd
@@ -1563,10 +1577,6 @@ hyundai,ioniq 6,ioniq 6 standard range rwd
 hyundai,j-car/elantra,j-car/elantra
 hyundai,kona,kona awd
 hyundai,kona,kona electric
-hyundai,kona,kona electric long range
-hyundai,kona,kona electric standard range
-hyundai,kona,kona fwd
-hyundai,kona,kona n
 hyundai,nexo,nexo
 hyundai,nexo,nexo blue
 hyundai,palisade,palisade awd
@@ -1661,8 +1671,8 @@ infiniti,m45,m45
 infiniti,m45,m45x
 infiniti,m56,m56
 infiniti,m56,m56x
+infiniti,q30,q30
 infiniti,q40,q40
-infiniti,q40,q40 awd
 infiniti,q45,q45
 infiniti,q45,q45 full-active suspension
 infiniti,q45,q45 sport
@@ -1697,19 +1707,15 @@ infiniti,qx30,qx30 awd
 infiniti,qx4,qx4 2wd
 infiniti,qx4,qx4 4wd
 infiniti,qx50,qx50
-infiniti,qx50,qx50 awd
-infiniti,qx55,qx55 awd
+infiniti,qx55,qx55
 infiniti,qx56,qx56 2wd
 infiniti,qx56,qx56 4wd
 infiniti,qx60,qx60 awd
 infiniti,qx60,qx60 fwd
 infiniti,qx60,qx60 hybrid awd
 infiniti,qx60,qx60 hybrid fwd
-infiniti,qx70,qx70 awd
-infiniti,qx70,qx70 rwd
-infiniti,qx80,qx80 2wd
-infiniti,qx80,qx80 4wd
-infiniti,qx80,qx80 4wd (over 6000 lbs curb weight)
+infiniti,qx70,qx70
+infiniti,qx80,qx80
 isuzu,750c/i-mark,750c/i-mark
 isuzu,amigo,amigo
 isuzu,ascender,ascender
@@ -1920,6 +1926,8 @@ kia,amanti,amanti
 kia,borrego,borrego 2wd
 kia,borrego,borrego 4wd
 kia,cadenza,cadenza
+kia,cerato,cerato
+kia,cerato,cerato forte koup
 kia,carnival,carnival
 kia,ev6,ev6 awd (long range)
 kia,ev6,ev6 awd gt
@@ -2012,11 +2020,8 @@ lamborghini,countach,countach lp500s
 lamborghini,diablo,db132/144 - diablo
 lamborghini,diablo,db132/144 diablo
 lamborghini,diablo,db132/diablo
-lamborghini,gallardo,gallardo coupe
-lamborghini,gallardo,gallardo coupe sl
+lamborghini,gallardo,gallardo
 lamborghini,gallardo,gallardo spyder
-lamborghini,gallardo,l-140/141 gallardo
-lamborghini,gallardo,l-140/715 gallardo
 lamborghini,huracan,huracan
 lamborghini,huracan,huracan 2wd
 lamborghini,huracan,huracan coupe
@@ -2262,37 +2267,39 @@ mazda,mx-5,mx-5
 mazda,mx-6,mx-6
 mazda,navajo,navajo
 mazda,protege,protege
+mazda,rx-7,rx7
 mazda,rx-7,rx-7
+mazda,rx-8,rx8
 mazda,rx-8,rx-8
 mazda,speed 3,speed 3
 mazda,tribute,tribute
-mclaren automotive,540c coupe,540c coupe
-mclaren automotive,570gt,570gt
-mclaren automotive,570s coupe,570s coupe
-mclaren automotive,570s spider,570s spider
-mclaren automotive,600lt coupe,600lt coupe
-mclaren automotive,600lt spider,600lt spider
-mclaren automotive,620r coupe,620r coupe
-mclaren automotive,650s can-am,650s can-am
-mclaren automotive,650s coupe,650s coupe
-mclaren automotive,650s spider,650s spider
-mclaren automotive,675lt coupe,675lt coupe
-mclaren automotive,675lt spider,675lt spider
-mclaren automotive,720s coupe,720s coupe
-mclaren automotive,720s coupe,720s coupe lm
-mclaren automotive,720s spider,720s spider
-mclaren automotive,765lt coupe,765lt coupe
-mclaren automotive,765lt spider,765lt spider
-mclaren automotive,artura,artura
-mclaren automotive,elva,elva
-mclaren automotive,gt,gt
-mclaren automotive,mp4-12c coupe,mp4-12c coupe
-mclaren automotive,mp4-12c spider,mp4-12c spider
-mclaren automotive,mso hs,mso hs
-mclaren automotive,p1,p1
-mclaren automotive,sabre,sabre
-mclaren automotive,senna,senna
-mclaren automotive,speedtail,speedtail
+mclaren,540c coupe,540c coupe
+mclaren,570gt,570gt
+mclaren,570s coupe,570s coupe
+mclaren,570s spider,570s spider
+mclaren,600lt coupe,600lt coupe
+mclaren,600lt spider,600lt spider
+mclaren,620r coupe,620r coupe
+mclaren,650s can-am,650s can-am
+mclaren,650s coupe,650s coupe
+mclaren,650s spider,650s spider
+mclaren,675lt coupe,675lt coupe
+mclaren,675lt spider,675lt spider
+mclaren,720s coupe,720s coupe
+mclaren,720s coupe,720s coupe lm
+mclaren,720s spider,720s spider
+mclaren,765lt coupe,765lt coupe
+mclaren,765lt spider,765lt spider
+mclaren,artura,artura
+mclaren,elva,elva
+mclaren,gt,gt
+mclaren,mp4-12c coupe,mp4-12c coupe
+mclaren,mp4-12c spider,mp4-12c spider
+mclaren,mso hs,mso hs
+mclaren,p1,p1
+mclaren,sabre,sabre
+mclaren,senna,senna
+mclaren,speedtail,speedtail
 mercedes-benz,190,190
 mercedes-benz,190,190 d 2.2/190 e 2.3
 mercedes-benz,190,190d 2.5
@@ -2345,15 +2352,15 @@ mercedes-benz,560,560sl
 mercedes-benz,600,600sel
 mercedes-benz,600,600sel/sec
 mercedes-benz,600,600sl
+mercedes-benz,a-class,a180
+mercedes-benz,a-class,a200
 mercedes-benz,a-class,a220
 mercedes-benz,a-class,a220 4matic
 mercedes-benz,a-class,amg a35 4matic
 mercedes-benz,amg gt,amg gt
 mercedes-benz,amg gt,amg gt 43 4matic plus
 mercedes-benz,amg gt,amg gt 53 4matic plus
-mercedes-benz,amg gt,amg gt 55 4matic plus (coupe)
 mercedes-benz,amg gt,amg gt 63 4matic plus
-mercedes-benz,amg gt,amg gt 63 4matic plus (coupe)
 mercedes-benz,amg gt,amg gt 63 s 4matic plus
 mercedes-benz,amg gt,amg gt black series
 mercedes-benz,amg gt,amg gt c coupe
@@ -2376,6 +2383,8 @@ mercedes-benz,c-class,amg c63 s
 mercedes-benz,c-class,amg c63 s convertible
 mercedes-benz,c-class,amg c63 s coupe
 mercedes-benz,c-class,c180
+mercedes-benz,c-class,c180k
+mercedes-benz,c-class,c180 avantgarde
 mercedes-benz,c-class,c200
 mercedes-benz,c-class,c220
 mercedes-benz,c-class,c230
@@ -2417,12 +2426,15 @@ mercedes-benz,cl-class,cl550 4matic
 mercedes-benz,cl-class,cl600
 mercedes-benz,cl-class,cl63 amg
 mercedes-benz,cl-class,cl65 amg
-mercedes-benz,cla-class,amg cla35 4matic
-mercedes-benz,cla-class,amg cla45 4matic
-mercedes-benz,cla-class,amg cla45 s 4matic
+mercedes-benz,cla-class,amg cla35
+mercedes-benz,cla-class,amg cla45
+mercedes-benz,cla-class,amg cla45 s
+mercedes-benz,cla-class,cla180
+mercedes-benz,cla-class,cla200
 mercedes-benz,cla-class,cla250
 mercedes-benz,cla-class,cla250 4matic
 mercedes-benz,cla-class,cla45 amg 4matic
+mercedes-benz,clc-class,clc180k
 mercedes-benz,cle-class,cle300 4matic (convertible)
 mercedes-benz,cle-class,cle300 4matic (coupe)
 mercedes-benz,cle-class,cle450 4matic (convertible)
@@ -2453,13 +2465,16 @@ mercedes-benz,cls-class,cls55 amg
 mercedes-benz,cls-class,cls550
 mercedes-benz,cls-class,cls550 4matic
 mercedes-benz,cls-class,cls63 amg
-mercedes-benz,cls-class,cls63 amg 4matic
 mercedes-benz,cls-class,cls63 amg s
-mercedes-benz,cls-class,cls63 amg s 4matic
-mercedes-benz,e-class,amg e43
-mercedes-benz,e-class,amg e53
-mercedes-benz,e-class,amg e63
+mercedes-benz,e-class,e43
+mercedes-benz,e-class,e43 amg
+mercedes-benz,e-class,e53
+mercedes-benz,e-class,e53 amg
+mercedes-benz,e-class,e63
+mercedes-benz,e-class,e63 amg
 mercedes-benz,e-class,e200
+mercedes-benz,e-class,e230
+mercedes-benz,e-class,e250
 mercedes-benz,e-class,e300
 mercedes-benz,e-class,e320
 mercedes-benz,e-class,e350
@@ -2474,6 +2489,7 @@ mercedes-benz,e-class,e63 amg
 mercedes-benz,eqb,eqb 250 plus
 mercedes-benz,eqb,eqb 300
 mercedes-benz,eqb,eqb 350
+mercedes-benz,eqc,eqc400
 mercedes-benz,eqe,amg eqe
 mercedes-benz,eqe,eqe 350
 mercedes-benz,eqe,eqe 350 plus
@@ -2508,17 +2524,18 @@ mercedes-benz,gla-class,gla45 amg 4matic
 mercedes-benz,glb-class,amg glb35 4matic
 mercedes-benz,glb-class,glb250
 mercedes-benz,glb-class,glb250 4matic
-mercedes-benz,glc-class,amg glc43
-mercedes-benz,glc-class,amg glc63
-mercedes-benz,glc-class,amg glc63 s
+mercedes-benz,glc-class,glc43
+mercedes-benz,glc-class,glc43 amg
+mercedes-benz,glc-class,glc63
+mercedes-benz,glc-class,glc63 s
+mercedes-benz,glc-class,glc220
 mercedes-benz,glc-class,glc250
 mercedes-benz,glc-class,glc300
 mercedes-benz,glc-class,glc350e 4matic
 mercedes-benz,gle-class,amg gle43
-mercedes-benz,gle-class,amg gle53 4matic plus
-mercedes-benz,gle-class,amg gle53 4matic plus coupe
+mercedes-benz,gle-class,amg gle53
+mercedes-benz,gle-class,amg gle53 4matic
 mercedes-benz,gle-class,amg gle63
-mercedes-benz,gle-class,amg gle63 s
 mercedes-benz,gle-class,amg gle63 s 4matic plus
 mercedes-benz,gle-class,amg gle63 s 4matic plus coupe
 mercedes-benz,gle-class,amg gle63 s coupe
@@ -2634,6 +2651,7 @@ mercedes-benz,sl-class,sl600
 mercedes-benz,sl-class,sl63 amg
 mercedes-benz,sl-class,sl65 amg
 mercedes-benz,slc-class,amg slc43
+mercedes-benz,slc-class,slc180
 mercedes-benz,slc-class,slc300
 mercedes-benz,slk-class,amg slk55
 mercedes-benz,slk-class,slk230
@@ -2652,6 +2670,8 @@ mercedes-benz,sls amg,sls amg coupe
 mercedes-benz,sls amg,sls amg gt coupe
 mercedes-benz,sls amg,sls amg gt roadster
 mercedes-benz,sls amg,sls amg roadster
+mini,one,one
+mini,one,one clubman
 mini,clubman,clubman
 mini,clubman,clubman s
 mini,clubman,cooper clubman
@@ -2732,108 +2752,61 @@ mitsubishi,van,van
 mitsubishi,wagon,wagon
 morgan,plus eight,plus eight
 nissan,200sx,200sx
-nissan,240sx,240sx
-nissan,300zx,300zx
-nissan,300zx,300zx 2x2
-nissan,350z,350z
-nissan,350z,350z roadster
-nissan,370z,370z
-nissan,370z,370z roadster
+nissan,200zr,200zr
+nissan,fairlady,300zx
+nissan,fairlady,350z
+nissan,fairlady,350z roadster
+nissan,fairlady,370z
+nissan,fairlady,370z roadster
 nissan,altima,altima
-nissan,altima,altima awd
-nissan,altima,altima awd sr/platinum
+nissan,altima,altima
 nissan,altima,altima coupe
 nissan,altima,altima hybrid
-nissan,altima,altima sl/sr
 nissan,altima,altima sr
-nissan,altima,altima sr/platinum
-nissan,altima,altima sv/sl
-nissan,altima / stanza,altima / stanza
 nissan,altra ev,altra ev
-nissan,ariya,ariya eng plus/evo plus e-4orce 87kwh
-nissan,ariya,ariya engage e-4orce 63kwh
-nissan,ariya,ariya engage fwd 63kwh
-nissan,ariya,ariya engage+/evolve+ e-4orce 87kwh
-nissan,ariya,ariya evo plus/emp plus/prm fwd 87kwh
-nissan,ariya,ariya evolve+/empower+ fwd 87kwh
-nissan,ariya,ariya plat plus e-4orce 87kwh 19
-nissan,ariya,ariya plat plus e-4orce 87kwh 20
-nissan,ariya,ariya platinum+ e-4orce 87kwh 19in. wheels
-nissan,ariya,ariya platinum+ e-4orce 87kwh 20in. wheels
+nissan,ariya,ariya engage
+nissan,ariya,ariya plat plus
+nissan,ariya,ariya platinum+
 nissan,ariya,ariya venture plus fwd 87kwh
-nissan,armada,armada 2wd
-nissan,armada,armada 2wd ffv
-nissan,armada,armada 4wd
-nissan,armada,armada 4wd ffv
+nissan,armada,armada
 nissan,axxess,axxess
-nissan,axxess,axxess awd
 nissan,cube,cube
-nissan,frontier,frontier 2wd
-nissan,frontier,frontier 2wd ffv
-nissan,frontier,frontier 4wd
-nissan,frontier,frontier 4wd ffv
-nissan,frontier,frontier 4wd pro4x
-nissan,frontier,frontier v6 2wd
-nissan,frontier,frontier v6 4wd
-nissan,gt-r,gt-r
-nissan,hardbody,hardbody 2wd
-nissan,hardbody,hardbody 4wd
+nissan,frontier,frontier
+nissan,frontier,frontier v6
+nissan,gtr,gtr
+nissan,hardbody,hardbody
 nissan,hyper-mini,hyper-mini
 nissan,juke,juke
-nissan,juke,juke awd
-nissan,juke,juke nismo rs
-nissan,juke,juke nismo rs awd
+nissan,juke,juke
+nissan,juke,juke nismo
 nissan,kicks,kicks
 nissan,leaf,leaf
-nissan,leaf,leaf (24 kw-hr battery pack)
-nissan,leaf,leaf (30 kw-hr battery pack)
-nissan,leaf,leaf (40 kw-hr battery pack)
-nissan,leaf,leaf (62 kw-hr battery pack)
 nissan,leaf,leaf sv
-nissan,leaf,leaf sv/sl (62 kw-hr battery pack)
+nissan,leaf,leaf sl
 nissan,maxima,maxima
 nissan,maxima,maxima wagon
 nissan,murano,murano 2wd
 nissan,murano,murano awd
 nissan,murano,murano crosscabriolet
 nissan,murano,murano fwd
-nissan,murano,murano hybrid awd
-nissan,murano,murano hybrid fwd
+nissan,murano,murano hybrid
 nissan,nv200 cargo van,nv200 cargo van
 nissan,nv200 nyc taxi,nv200 nyc taxi
 nissan,nx,nx
 nissan,nx,nx coupe
-nissan,pathfinder,pathfinder 2wd
-nissan,pathfinder,pathfinder 4wd
-nissan,pathfinder,pathfinder 4wd platinum
-nissan,pathfinder,pathfinder 4wd rock creek
-nissan,pathfinder,pathfinder 4wd sl/platinum
-nissan,pathfinder,pathfinder armada 2wd
-nissan,pathfinder,pathfinder armada 4wd
-nissan,pathfinder,pathfinder fe 2wd
-nissan,pathfinder,pathfinder hybrid 2wd
-nissan,pathfinder,pathfinder hybrid 4wd
-nissan,pathfinder,pathfinder van (cargo)
-nissan,pickup,pickup 2wd
-nissan,pickup,pickup 4wd
+nissan,pathfinder,pathfinder
+nissan,pathfinder,pathfinder armada
+nissan,pathfinder,pathfinder fe
+nissan,pathfinder,pathfinder hybrid
+nissan,pathfinder,pathfinder van
+nissan,pickup,pickup
 nissan,pickup,pickup cab chassis
 nissan,pulsar nx,pulsar nx
-nissan,pulsar/pulsar-nx,pulsar/pulsar-nx
 nissan,quest,quest
-nissan,rogue,rogue awd
-nissan,rogue,rogue awd  sv/sl/platinum
-nissan,rogue,rogue awd sl/platinum
-nissan,rogue,rogue fwd
-nissan,rogue,rogue fwd  sv/sl/platinum
-nissan,rogue,rogue fwd sl/platinum
-nissan,rogue,rogue hybrid  awd
-nissan,rogue,rogue hybrid  fwd
-nissan,rogue,rogue select awd
-nissan,rogue,rogue select fwd
-nissan,rogue,rogue sport awd
-nissan,rogue,rogue sport fwd
-nissan,rogue sport,rogue sport
-nissan,rogue sport,rogue sport awd
+nissan,rogue,rogue
+nissan,rogue,rogue hybrid
+nissan,rogue,rogue select
+nissan,rogue,rogue sport
 nissan,sentra,sentra
 nissan,sentra,sentra classic
 nissan,sentra,sentra coupe
@@ -2843,35 +2816,15 @@ nissan,sentra,sentra nismo
 nissan,sentra,sentra sr
 nissan,sentra,sentra wagon
 nissan,sentra,sentra wagon 4wd
-nissan,sentra/200sx,sentra/200sx
 nissan,stanza,stanza
-nissan,stanza,stanza wagon 2wd
-nissan,stanza,stanza wagon 4wd
-nissan,titan,titan 2wd
-nissan,titan,titan 2wd ffv
-nissan,titan,titan 4wd
-nissan,titan,titan 4wd  pro4x
-nissan,titan,titan 4wd ffv
-nissan,titan,titan 4wd pro-4x
-nissan,titan,titan 4wd pro4x
-nissan,titan,titan fe 2wd
-nissan,titan,titan fe 2wd ffv
-nissan,truck,truck 2wd
-nissan,truck,truck 2wd (new version)
-nissan,truck,truck 4wd
-nissan,truck,truck 4wd (new version)
-nissan,truck,truck cab chassis 2wd
-nissan,van,van (cargo)
-nissan,van,van (passenger)
-nissan,van,van(cargo)
+nissan,titan,titan
+nissan,titan,titan fe
+nissan,truck,truck
+nissan,truck,truck cab chassis
+nissan,van,van
 nissan,versa,versa
 nissan,versa,versa fe
-nissan,xterra,xterra 2wd
-nissan,xterra,xterra 4wd
-nissan,xterra,xterra v6 2wd
-nissan,xterra,xterra v6 4wd
-nissan,z,z
-nissan,z,z nismo
+nissan,xterra,xterra
 peugeot,405,405 sedan
 peugeot,405,405 sports wagon
 peugeot,405,405 station wagon
@@ -3018,7 +2971,7 @@ porsche,panamera,panamera turbo
 porsche,panamera,panamera turbo s
 porsche,panamera,panamera turbo st
 porsche,targa,targa
-porsche,taycan,taycan 4
+porsche,taycan,taycan
 porsche,taycan,taycan gts
 porsche,taycan,taycan turbo
 porsche,taycan,taycan turbo s
@@ -3071,16 +3024,9 @@ rolls-royce,phantom,phantom ewb
 rolls-royce,phantom,phantom extended
 rolls-royce,silver dawn,silver dawn
 rolls-royce,silver seraph,silver seraph
-rolls-royce,silver spirit ii/silver spur,silver spirit ii/silver spur
-rolls-royce,silver spirit iii/spur iii,silver spirit iii/spur iii
-rolls-royce,silver spirit/silver spur,silver spirit/silver spur
-rolls-royce,silver spirit/spur/mulsanne,silver spirit/spur/mulsanne
+rolls-royce,silver spirit ii/silver spur,silver spirit
 rolls-royce,silver spur,silver spur
-rolls-royce,silver spur ii mpw touring l,silver spur ii mpw touring l
-rolls-royce,silver spur iii limousine,silver spur iii limousine
-rolls-royce,silver spur limousine,silver spur limousine
-rolls-royce,silver spur park ward,silver spur park ward
-rolls-royce,silver spur/silver dawn,silver spur/silver dawn
+rolls-royce,silver spur/silver dawn,silver shadow
 rolls-royce,spectre,spectre (22 inch wheels)
 rolls-royce,spectre,spectre (23 inch wheels)
 rolls-royce,spectre,spectre black badge (22 inch wheels)
@@ -3095,8 +3041,6 @@ ruf automobile,turbo12/ctr3/ctr anniversary,turbo12/ctr3/ctr anniversary
 ruf automobile gmbh,ruf,ruf
 saab,9-2,9-2x wagon awd
 saab,9-3,9-3
-saab,9-3,9-3 aero sedan awd
-saab,9-3,9-3 aero sportcombi awd
 saab,9-3,9-3 convertible
 saab,9-3,9-3 sedan awd
 saab,9-3,9-3 sport sedan
@@ -3129,7 +3073,6 @@ seat,tarraco,tarraco
 seat,toledo,toledo
 shelby,mustang gt,mustang gt
 smart,fortwo,fortwo
-smart,fortwo,fortwo cabriolet
 smart,fortwo,fortwo convertible
 smart,fortwo,fortwo coupe
 smart,fortwo,fortwo electric drive cabriolet
@@ -3147,9 +3090,7 @@ subaru,crosstrek,crosstrek hybrid awd
 subaru,crosstrek,crosstrek wilderness awd
 subaru,crosstrek,xv crosstrek awd
 subaru,crosstrek,xv crosstrek hybrid awd
-subaru,forester,forester awd
-subaru,forester,forester sport/touring awd
-subaru,forester,forester wilderness awd
+subaru,forester,forester
 subaru,hatchback,hatchback
 subaru,hatchback,hatchback 4wd
 subaru,impreza,impreza
@@ -3218,8 +3159,7 @@ subaru,wagon,wagon 4wd turbo
 subaru,wrx,wrx
 subaru,wrx,wrx sti type ra
 subaru,xt,xt
-subaru,xt,xt 4wd
-subaru,xt,xt-dl
+subaru,xv,xv
 suzuki,aerio,aerio
 suzuki,aerio,aerio 4wd
 suzuki,aerio,aerio awd
@@ -3371,6 +3311,7 @@ toyota,venza,venza
 toyota,venza,venza 4wd
 toyota,venza,venza awd
 toyota,yaris,yaris
+toyota,yaris,gr yaris
 toyota,yaris,yaris ia
 volkswagen,arteon,arteon
 volkswagen,arteon,arteon 4motion
@@ -3424,27 +3365,13 @@ volkswagen,id.4,id.4 pro
 volkswagen,id.4,id.4 pro s
 volkswagen,id.4,id.4 s
 volkswagen,jetta,jetta
-volkswagen,jetta,jetta gli
-volkswagen,jetta,jetta gli 16v
-volkswagen,jetta,jetta gli/wolfsburg edition
-volkswagen,jetta,jetta glx
 volkswagen,jetta,jetta hybrid
-volkswagen,jetta,jetta iii
-volkswagen,jetta,jetta iii glx
-volkswagen,jetta,jetta se/sel
-volkswagen,jetta,jetta sport/se/sel
-volkswagen,jetta,jetta sportwagen
 volkswagen,jetta,jetta wagon
 volkswagen,jetta,new jetta
 volkswagen,passat,passat
-volkswagen,passat,passat 4motion
-volkswagen,passat,passat syncro
 volkswagen,passat,passat wagon
-volkswagen,passat,passat wagon 4motion
-volkswagen,passat,passat wagon syncro
 volkswagen,phaeton,phaeton
 volkswagen,quantum,quantum
-volkswagen,quantum,quantum syncro wagon
 volkswagen,quantum,quantum wagon
 volkswagen,r32,r32
 volkswagen,rabbit,rabbit
@@ -3498,7 +3425,6 @@ volvo,960 wagon/v90,960 wagon/v90
 volvo,960/s90,960/s90
 volvo,c30,c30 fwd
 volvo,c40,c40 recharge
-volvo,c40,c40 recharge twin
 volvo,c70,c70
 volvo,c70,c70 convertible
 volvo,c70,c70 coupe
@@ -3535,53 +3461,21 @@ volvo,s90,s90 fwd
 volvo,s90,s90 t8 awd recharge
 volvo,s90,s90 t8 awd recharge ext. range
 volvo,v40,v40
-volvo,v50,v50 awd
-volvo,v50,v50 fwd
-volvo,v60,v60 awd
-volvo,v60,v60 awd phev
-volvo,v60,v60 cc awd
-volvo,v60,v60 cc fwd
-volvo,v60,v60 fwd
-volvo,v60,v60 polestar awd
-volvo,v60,v60 t8 awd recharge
-volvo,v60,v60 t8 awd recharge ext. range
-volvo,v60,v60cc b5 awd
-volvo,v60,v60cc t5 awd
-volvo,v70,v70 awd
-volvo,v70,v70 fwd
-volvo,v70,v70 r awd
-volvo,v70 xc,v70 xc awd
+volvo,v50,v50
+volvo,v60,v60
+volvo,v60,v60 polestar
+volvo,v60,v60 t8
+volvo,v60,v60cc
+volvo,v70,v70
+volvo,v70 xc,v70 xc
 volvo,v90,v90
-volvo,v90,v90 awd
-volvo,v90,v90 cc awd
-volvo,v90,v90 fwd
-volvo,v90,v90cc b6 awd
-volvo,xc40,xc40 awd
-volvo,xc40,xc40 awd bev
-volvo,xc40,xc40 b4
-volvo,xc40,xc40 b5 awd
-volvo,xc40,xc40 fwd
-volvo,xc40,xc40 recharge
-volvo,xc40,xc40 recharge twin
+volvo,xc40,xc40
 volvo,xc40,xc40 t4
-volvo,xc40,xc40 t5 awd
-volvo,xc60,xc60 awd
-volvo,xc60,xc60 awd phev
-volvo,xc60,xc60 b5
-volvo,xc60,xc60 b5 awd
-volvo,xc60,xc60 b6 awd
-volvo,xc60,xc60 fwd
-volvo,xc60,xc60 t8 awd recharge
-volvo,xc60,xc60 t8 awd recharge ext. range
-volvo,xc70,xc70 awd
-volvo,xc70,xc70 fwd
-volvo,xc90,xc90 awd
-volvo,xc90,xc90 awd phev
-volvo,xc90,xc90 b5 awd
-volvo,xc90,xc90 b6 awd
-volvo,xc90,xc90 fwd
+volvo,xc40,xc40 t5
+volvo,xc60,xc60
+volvo,xc60,xc60 t8
+volvo,xc70,xc70
+volvo,xc90,xc90
 volvo,xc90,xc90 t5
-volvo,xc90,xc90 t5 awd
-volvo,xc90,xc90 t6 awd
-volvo,xc90,xc90 t8 awd recharge
-volvo,xc90,xc90 t8 awd recharge ext. range
+volvo,xc90,xc90 t6
+volvo,xc90,xc90 t8

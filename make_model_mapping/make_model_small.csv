@@ -10,11 +10,12 @@ aston martin,db12 v8,db12 v8
 aston martin,db7,db7 coupe
 aston martin,db7,db7 volante
 aston martin,db9,db9
+aston martin,db9,db9 gt
 aston martin,db9,db9 coupe
 aston martin,db9,db9 volante
 aston martin,dbs,dbs
-aston martin,dbx 707,dbx 707
-aston martin,dbx v8,dbx v8
+aston martin,dbx,dbx
+aston martin,dbx,dbx v8
 aston martin,lagonda,lagonda
 aston martin,rapide,rapide
 aston martin,valour,valour
@@ -69,6 +70,7 @@ audi,cabriolet,cabriolet
 audi,coupe gt,coupe gt
 audi,coupe quattro,coupe quattro
 audi,e-tron,e-tron
+audi,q2,q2
 audi,q3,q3
 audi,q4,q4
 audi,q5,q5
@@ -98,6 +100,7 @@ audi,tt,tt
 audi,tt,tt coupe
 audi,tt,tt rs
 audi,tt,tt roadster
+audi,tts,tts
 audi,tts,tts coupe
 audi,v8,v8
 bentley,arnage,arnage
@@ -111,11 +114,10 @@ bentley,bentayga,bentayga speed
 bentley,brooklands,brooklands
 bentley,brooklands,brooklands r
 bentley,brooklands,brooklands r limo
+bentley,continental,continental
 bentley,continental,continental gt
 bentley,continental,continental gt convertible
-bentley,continental,continental gt convertible speed
 bentley,continental,continental gt speed
-bentley,continental,continental gt speed convertible
 bentley,continental,continental gt v8 convertible
 bentley,continental,continental gt3-r
 bentley,continental,continental gtc
@@ -132,11 +134,16 @@ bentley,flying spur,flying spur hybrid
 bentley,mulsanne,mulsanne
 bentley,mulsanne,mulsanne ewb
 bentley,turbo rt,turbo rt
+bmw,1 series,1m
+bmw,1 series,1m coupe
 bmw,1 series,116i
+bmw,1 series,116d
 bmw,1 series,118i
+bmw,1 series,125i
 bmw,1 series,128i
 bmw,1 series,135i
 bmw,1 series,m135i
+bmw,1 series,m140i
 bmw,2 series,216i
 bmw,2 series,216d
 bmw,2 series,218i
@@ -147,24 +154,24 @@ bmw,2 series,225xe
 bmw,2 series,230i
 bmw,2 series,m235i
 bmw,2 series,m240i
+bmw,3 series,316i
 bmw,3 series,318i
+bmw,3 series,318ci
 bmw,3 series,320i
 bmw,3 series,323ci
 bmw,3 series,323i
 bmw,3 series,323is
 bmw,3 series,325ci
-bmw,3 series,325i
-bmw,3 series,325ic
-bmw,3 series,325is
-bmw,3 series,325ix
 bmw,3 series,325xi
+bmw,3 series,325i
+bmw,3 series,325i coupe
+bmw,3 series,325i convertible
 bmw,3 series,328ci
 bmw,3 series,328cxi
 bmw,3 series,328d
 bmw,3 series,328d xdrive
 bmw,3 series,328d xdrive sports wagon
 bmw,3 series,328i
-bmw,3 series,328i/328is
 bmw,3 series,328ic
 bmw,3 series,328is
 bmw,3 series,328xi
@@ -202,6 +209,7 @@ bmw,3 series,340i xdrive gran turismo
 bmw,3 series,activehybrid 3
 bmw,3 series,m340i sedan
 bmw,3 series,m340i xdrive sedan
+bmw,4 series,420i
 bmw,4 series,428i convertible
 bmw,4 series,428i coupe
 bmw,4 series,428i gran coupe
@@ -222,17 +230,17 @@ bmw,4 series,435i xdrive coupe
 bmw,4 series,435i xdrive gran coupe
 bmw,4 series,440i convertible
 bmw,4 series,440i coupe
-bmw,4 series,440i gran coupe
 bmw,4 series,440i xdrive convertible
 bmw,4 series,440i xdrive coupe
-bmw,4 series,440i xdrive gran coupe
 bmw,4 series,m440i convertible
 bmw,4 series,m440i coupe
 bmw,4 series,m440i gran coupe
 bmw,4 series,m440i xdrive convertible
 bmw,4 series,m440i xdrive coupe
 bmw,4 series,m440i xdrive gran coupe
-bmw,5 series,5 series
+bmw,5 series,520i
+bmw,5 series,520d
+bmw,5 series,523i
 bmw,5 series,525i
 bmw,5 series,525i sport wagon
 bmw,5 series,525i touring
@@ -244,13 +252,9 @@ bmw,5 series,528i xdrive
 bmw,5 series,528xi
 bmw,5 series,530e
 bmw,5 series,530e sedan
-bmw,5 series,530e xdrive
-bmw,5 series,530e xdrive sedan
 bmw,5 series,530i
 bmw,5 series,530i sedan
 bmw,5 series,530i touring
-bmw,5 series,530i xdrive
-bmw,5 series,530i xdrive sedan
 bmw,5 series,530xi
 bmw,5 series,530xi sport wagon
 bmw,5 series,535d
@@ -278,6 +282,7 @@ bmw,5 series,550i xdrive gran turismo
 bmw,5 series,550i xdrive gt
 bmw,5 series,activehybrid 5
 bmw,5 series,m550i xdrive sedan
+bmw,6 series,630i
 bmw,6 series,630ci
 bmw,6 series,635csi
 bmw,6 series,640i convertible
@@ -301,7 +306,9 @@ bmw,6 series,650i xdrive coupe
 bmw,6 series,650i xdrive gran coupe
 bmw,6 series,alpina b6 gran coupe xdrive
 bmw,6 series,alpina b6 xdrive gran coupe
-bmw,7 series,7 series
+bmw,7 series,730i
+bmw,7 series,730li
+bmw,7 series,730ld
 bmw,7 series,735i
 bmw,7 series,735i luxury
 bmw,7 series,735il
@@ -371,12 +378,10 @@ bmw,i3,i3s
 bmw,i3,i3s (94ah)
 bmw,i3,i3s (94ah) with range extender
 bmw,i3,i3s with range extender
-bmw,i4,i4 edrive35 gran coupe (18 inch wheels)
-bmw,i4,i4 edrive35 gran coupe (19 inch wheels)
-bmw,i4,i4 edrive40 gran coupe (18 inch wheels)
-bmw,i4,i4 edrive40 gran coupe (19 inch wheels)
-bmw,i4,i4 m50 gran coupe (19 inch wheels)
-bmw,i4,i4 m50 gran coupe (20 inch wheels)
+bmw,i4,i4
+bmw,i4,i4 edrive35
+bmw,i4,i4 edrive40
+bmw,i4,i4 m50
 bmw,i4,i4 xdrive40 gran coupe (18 inch wheels)
 bmw,i4,i4 xdrive40 gran coupe (19 inch wheels)
 bmw,i5,i5 edrive40 sedan (19 inch wheels)
@@ -396,14 +401,6 @@ bmw,i7,i7 xdrive60 sedan (21 inch wheels)
 bmw,i8,i8
 bmw,i8,i8 coupe
 bmw,i8,i8 roadster
-bmw,ix,ix m60 (21 inch wheels)
-bmw,ix,ix m60 (22 inch wheels)
-bmw,ix,ix xdrive40 (20 inch wheels)
-bmw,ix,ix xdrive40 (21 inch wheels)
-bmw,ix,ix xdrive40 (22 inch wheels)
-bmw,ix,ix xdrive50 (20 inch wheels)
-bmw,ix,ix xdrive50 (21 inch wheels)
-bmw,ix,ix xdrive50 (22 inch wheels)
 bmw,m,m coupe
 bmw,m,m roadster
 bmw,m,m2
@@ -421,8 +418,6 @@ bmw,m,m240i xdrive coupe
 bmw,m,m240i xdrive coupe m performance
 bmw,m,m3
 bmw,m,m3 competition
-bmw,m,m3 competition m xdrive sedan
-bmw,m,m3 competition sedan
 bmw,m,m3 convertible
 bmw,m,m3 coupe
 bmw,m,m3 cs
@@ -434,10 +429,11 @@ bmw,m,m4 competition coupe
 bmw,m,m4 competition m xdrive convertible
 bmw,m,m4 competition m xdrive coupe
 bmw,m,m4 convertible
-bmw,m,m4 convertible competition
 bmw,m,m4 coupe
+bmw,m,m4 coupe xdriver
 bmw,m,m4 coupe competition
 bmw,m,m4 cs
+bmw,m,m4 csl
 bmw,m,m4 csl coupe
 bmw,m,m4 dtm champions edition
 bmw,m,m4 gts
@@ -460,6 +456,7 @@ bmw,m,m850i xdrive coupe
 bmw,m,m850i xdrive gran coupe
 bmw,m,x5 m
 bmw,m,x6 m
+bmw,x1,x1
 bmw,x1,x1 m35i
 bmw,x1,x1 sdrive28i
 bmw,x1,x1 xdrive28i
@@ -467,14 +464,24 @@ bmw,x1,x1 xdrive35i
 bmw,x2,x2 m35i
 bmw,x2,x2 sdrive28i
 bmw,x2,x2 xdrive28i
+bmw,x3,ix3
 bmw,x3,x3
 bmw,x3,x3 m40i
-bmw,x4,x4 m
+bmw,x4,x4
+bmw,x4,x4 m competition
 bmw,x4,x4 m40i
 bmw,x5,x5
+bmw,x5,x5 mild
 bmw,x5,x5 m
+bmw,x5,x5 m competition
+bmw,x5,x5 xdrive25d
+bmw,x5,x5 xdrive30i
+bmw,x5,x5 xdrive35i
+bmw,x5,x5 xdrive40i
 bmw,x5,x5 m50i
 bmw,x5,x5 m60i
+bmw,x6,x6
+bmw,x6,x6 mild
 bmw,x6,x6 m
 bmw,x6,x6 m competition
 bmw,x6,x6 m50i
@@ -497,8 +504,6 @@ bmw,z4,z4 3.0i
 bmw,z4,z4 3.0si
 bmw,z4,z4 3.0si coupe
 bmw,z4,z4 coupe
-bmw,z4,z4 m coupe
-bmw,z4,z4 m roadster
 bmw,z4,z4 m40i
 bmw,z4,z4 roadster
 bmw,z4,z4 sdrive28i
@@ -651,32 +656,16 @@ cadillac,xts,xts awd
 cadillac,xts hearse,xts hearse
 cadillac,xts limo,xts limo
 ccc engineering,duntov gt,duntov gt
-chevrolet,astro cargo,astro 2wd (cargo)
-chevrolet,astro cargo,astro 2wd (cargo) conversion
-chevrolet,astro cargo,astro awd (cargo)
-chevrolet,astro cargo,astro awd (cargo) conversion
-chevrolet,astro passenger,astro 2wd (passenger)
-chevrolet,astro passenger,astro awd (passenger)
-chevrolet,avalanche,avalanche 1500 2wd
-chevrolet,avalanche,avalanche 1500 4wd
-chevrolet,avalanche,avalanche 1500 awd
+chevrolet,astro cargo,astro
+chevrolet,avalanche,avalanche
 chevrolet,aveo,aveo
 chevrolet,aveo,aveo 5
 chevrolet,beretta,beretta
 chevrolet,blazer,blazer 1500 4wd
-chevrolet,blazer,blazer 2wd
-chevrolet,blazer,blazer 4wd
-chevrolet,blazer,blazer awd
-chevrolet,blazer,blazer ev awd
-chevrolet,blazer,blazer ev rwd
-chevrolet,blazer,blazer fwd
-chevrolet,blazer,blazer v1500 4wd
-chevrolet,blazer,k10 blazer 4wd
-chevrolet,blazer,k5/k10 blazer 4wd
-chevrolet,blazer,s10 blazer 2wd
-chevrolet,blazer,s10 blazer 4wd
-chevrolet,blazer,t10 (s10) blazer 4wd
-chevrolet,blazer,v10 (k10) blazer 4wd
+chevrolet,blazer,blazer
+chevrolet,blazer,k10 blazer
+chevrolet,blazer,s10 blazer
+chevrolet,blazer,s10 blazer
 chevrolet,blazer,v10 blazer 4wd
 chevrolet,bolt euv,bolt euv
 chevrolet,bolt ev,bolt ev
@@ -687,10 +676,8 @@ chevrolet,c2500 pickup,c2500 pickup 2wd
 chevrolet,camaro,camaro
 chevrolet,caprice,caprice
 chevrolet,caprice,caprice wagon
-chevrolet,captiva,captiva awd
-chevrolet,captiva,captiva fwd
+chevrolet,captiva,captiva
 chevrolet,cavalier,cavalier
-chevrolet,cavalier,cavalier (bi-fuel cng)
 chevrolet,cavalier,cavalier convertible
 chevrolet,cavalier,cavalier dual-fuel
 chevrolet,cavalier,cavalier wagon
@@ -994,10 +981,13 @@ chrysler,town and country/voyager/grand voyager,town and country/voyager/grand v
 chrysler,voyager,voyager
 chrysler,voyager/town and country,voyager/town and country 2wd
 citroen,berlingo,berlingo
+citroen,berlingo,e-berlingo
 citroen,c3,c3
 citroen,c4,c4
+citroen,c4,e-c4
 citroen,c5,c5
 citroen,dispatch,dispatch
+citroen,dispatch,e-dispatch
 citroen,ds3,ds3
 citroen,ds4,ds4
 citroen,ds5,ds5
@@ -1119,10 +1109,15 @@ ferrari,296 gtb,296 gtb
 ferrari,296 gtb spider,296 gtb spider
 ferrari,3.2 mondial/cabriolet,3.2 mondial/cabriolet
 ferrari,308,308
-ferrari,328 gts/gtb,328 gts/gtb
-ferrari,348 tb/ts,348 tb/ts
-ferrari,360 modena/modena f1,360 modena/modena f1
-ferrari,360 modena/spider,360 modena/spider
+ferrari,328,328
+ferrari,328,328 gtb
+ferrari,328,328 gts
+ferrari,348,348
+ferrari,348,348 tb
+ferrari,348,348 ts
+ferrari,360,360
+ferrari,360,360 modena
+ferrari,360,360 spider
 ferrari,360 modena/spider/challenge,360 modena/spider/challenge
 ferrari,456 mgt/mga,456 mgt/mga
 ferrari,458 italia,458 italia
@@ -1407,6 +1402,7 @@ ford,maverick,maverick awd
 ford,maverick,maverick fwd
 ford,maverick,maverick hev fwd
 ford,maverick,maverick tremor awd
+ford,mondeo,mondeo
 ford,mustang,mustang
 ford,mustang,mustang bullitt
 ford,mustang,mustang convertible
@@ -1430,45 +1426,17 @@ ford,mustang mach-e,mustang mach-e rwd extended
 ford,mustang mach-e,mustang mach-e rwd lfp
 ford,postal vehicle,postal vehicle
 ford,probe,probe
-ford,ranger,ranger 2wd
-ford,ranger,ranger 2wd ffv
-ford,ranger,ranger 2wd incomplete
-ford,ranger,ranger 4wd
-ford,ranger,ranger 4wd ffv
-ford,ranger,ranger pickup 2wd
-ford,ranger,ranger pickup 4wd
-ford,ranger,ranger pickup cab chassis
-ford,ranger,ranger pickup cab chassis 2wd
-ford,ranger,ranger raptor 4wd
-ford,ranger,ranger tremor 4wd
+ford,ranger,ranger
+ford,ranger,ranger pickup
+ford,ranger,ranger raptor
+ford,ranger,ranger tremor
 ford,taurus,taurus
-ford,taurus,taurus awd
-ford,taurus,taurus awd ffv
-ford,taurus,taurus ffv
-ford,taurus,taurus fwd
-ford,taurus,taurus fwd ffv
-ford,taurus,taurus sho
 ford,taurus,taurus wagon
-ford,taurus,taurus wagon 3.0 a/c
-ford,taurus,taurus wagon ffv
-ford,taurus,taurus wagon v6 a/c
-ford,taurus,taurus x awd
-ford,taurus,taurus x fwd
+ford,taurus,taurus x
 ford,tempo,tempo
-ford,tempo,tempo awd
 ford,tempo,tempo fs
-ford,th!nk,th!nk
 ford,thunderbird,thunderbird
 ford,transit connect,transit connect
-ford,transit connect,transit connect usps
-ford,transit connect,transit connect van
-ford,transit connect,transit connect van 2wd
-ford,transit connect,transit connect van ffv
-ford,transit connect,transit connect van fwd
-ford,transit connect,transit connect wagon ffv
-ford,transit connect,transit connect wagon fwd
-ford,transit connect,transit connect wagon lwb ffv
-ford,transit connect,transit connect wagon lwb fwd
 ford,transit t150 wagon,transit t150 wagon
 ford,transit t150 wagon,transit t150 wagon 2wd ffv
 ford,transit t150 wagon,transit t150 wagon 4wd ffv
@@ -1490,7 +1458,7 @@ honda,civic,civic hf
 honda,civic,civic hx
 honda,civic,civic hybrid
 honda,civic,civic natural gas
-honda,civic,civic si
+honda,civic,civic sir
 honda,civic,civic wagon
 honda,clarity,clarity ev
 honda,clarity,clarity fcv
@@ -1504,13 +1472,13 @@ honda,del sol,del sol
 honda,element,element
 honda,ev plus,ev plus
 honda,fit,fit
+honda,fit,fit hybrid
 honda,fit,fit ev
-honda,hr-v,hr-v 2wd
-honda,hr-v,hr-v 4wd
-honda,hr-v,hr-v awd
-honda,hr-v,hr-v fwd
+honda,hr-v,hr-v
 honda,insight,insight
-honda,insight,insight touring
+honda,jade,jade
+honda,jazz,jazz
+honda,vezel,vezel
 honda,odyssey,odyssey
 honda,passport,passport
 honda,pilot,pilot
@@ -1523,6 +1491,8 @@ honda,ridgeline,ridgeline awd trailsport
 honda,ridgeline,ridgeline fwd
 honda,ridgeline,ridgeline truck 4wd
 honda,s2000,s2000
+honda,stepwagon,stepwagon
+honda,zr-v,zr-v
 hummer,h3,h3 4wd
 hummer,h3t,h3t 4wd
 hyundai,accent,accent

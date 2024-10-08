@@ -139,6 +139,7 @@ bmw,1 series,1m coupe
 bmw,1 series,116i
 bmw,1 series,116d
 bmw,1 series,118i
+bmw,1 series,120i
 bmw,1 series,125i
 bmw,1 series,128i
 bmw,1 series,135i
@@ -285,6 +286,7 @@ bmw,5 series,m550i xdrive sedan
 bmw,6 series,630i
 bmw,6 series,630ci
 bmw,6 series,635csi
+bmw,6 series,640i
 bmw,6 series,640i convertible
 bmw,6 series,640i coupe
 bmw,6 series,640i gran coupe
@@ -457,17 +459,36 @@ bmw,m,m850i xdrive gran coupe
 bmw,m,x5 m
 bmw,m,x6 m
 bmw,x1,x1
+bmw,x1,x1 sdriver 16i
+bmw,x1,x1 sdriver 18i
+bmw,x1,x1 sdriver 20i
 bmw,x1,x1 m35i
 bmw,x1,x1 sdrive28i
 bmw,x1,x1 xdrive28i
 bmw,x1,x1 xdrive35i
+bmw,x2,x2
+bmw,x2,x2 mild
 bmw,x2,x2 m35i
+bmw,x2,x2 sdrive18i
+bmw,x2,x2 sdrive20i
+bmw,x2,x2 sdrive23i
 bmw,x2,x2 sdrive28i
 bmw,x2,x2 xdrive28i
 bmw,x3,ix3
 bmw,x3,x3
+bmw,x3,x3 mild
+bmw,x3,x3 sdrive20i
+bmw,x3,x3 xdrive25i
+bmw,x3,x3 xdrive30i
+bmw,x3,x3 xdrive30e
+bmw,x3,x3 xdrive35i
 bmw,x3,x3 m40i
 bmw,x4,x4
+bmw,x4,x4 mild
+bmw,x4,x4 xdriver20i
+bmw,x4,x4 xdriver28i
+bmw,x4,x4 xdriver30i
+bmw,x4,x4 xdriver35i
 bmw,x4,x4 m competition
 bmw,x4,x4 m40i
 bmw,x5,x5
@@ -478,7 +499,9 @@ bmw,x5,x5 xdrive25d
 bmw,x5,x5 xdrive30i
 bmw,x5,x5 xdrive35i
 bmw,x5,x5 xdrive40i
+bmw,x5,x5 xdrive40e
 bmw,x5,x5 m50i
+bmw,x5,x5 m50d
 bmw,x5,x5 m60i
 bmw,x6,x6
 bmw,x6,x6 mild
@@ -500,12 +523,11 @@ bmw,x7,x7 xdrive50i
 bmw,xm,xm
 bmw,z3,z3 coupe
 bmw,z3,z3 roadster
-bmw,z4,z4 3.0i
-bmw,z4,z4 3.0si
-bmw,z4,z4 3.0si coupe
+bmw,z4,z4
 bmw,z4,z4 coupe
 bmw,z4,z4 m40i
 bmw,z4,z4 roadster
+bmw,z4,z4 sdrive23i
 bmw,z4,z4 sdrive28i
 bmw,z4,z4 sdrive30i
 bmw,z4,z4 sdrive35i

@@ -4,6 +4,7 @@ alfa romeo,4c,4c
 alfa romeo,giulia,giulia
 alfa romeo,gt,gt v6 2.5
 alfa romeo,gtv,gtv
+alfa romeo,alfetta,alfetta
 alfa romeo,milano,milano
 alfa romeo,spider,spider
 alfa romeo,spider,spider veloce 2000
@@ -69,8 +70,14 @@ audi,80/90,90 quattro
 audi,80/90,90 quattro 20v
 audi,a1,a1
 audi,a3,a3
+audi,a3,a3 sedan
+audi,a3,a3 sportback
+audi,a3,a3 cabriolet
 audi,a4,a4
 audi,a5,a5
+audi,a5,a5 sportback
+audi,a5,a5 cabriolet
+audi,a5,a5 coupe
 audi,a6,a6
 audi,a7,a7
 audi,a8,a8
@@ -82,18 +89,23 @@ audi,coupe quattro,coupe quattro
 audi,e-tron,e-tron
 audi,q2,q2
 audi,q3,q3
+audi,q3,q3 sportback
 audi,q4,q4
 audi,q5,q5
 audi,q7,q7
 audi,q8,q8
 audi,quattro,quattro
 audi,r8,r8
+audi,r8,r8 coupe
+audi,r8,r8 spyder
 audi,rs,rs 3
 audi,rs,rs 4
 audi,rs,rs 5
 audi,rs,rs 6
 audi,rs,rs 7
 audi,s3,s3
+audi,s3,s3 sedan
+audi,s3,s3 sportback
 audi,s4,s4
 audi,s5,s5
 audi,s6,s6
@@ -254,35 +266,23 @@ bmw,5 series,520d
 bmw,5 series,523i
 bmw,5 series,525i
 bmw,5 series,525i sport wagon
-bmw,5 series,525i touring
 bmw,5 series,525xi
 bmw,5 series,528i
-bmw,5 series,528i sport wagon
-bmw,5 series,528i touring
-bmw,5 series,528i xdrive
 bmw,5 series,528xi
 bmw,5 series,530e
 bmw,5 series,530e sedan
 bmw,5 series,530i
 bmw,5 series,530i sedan
-bmw,5 series,530i touring
 bmw,5 series,530xi
 bmw,5 series,530xi sport wagon
 bmw,5 series,535d
 bmw,5 series,535d xdrive
 bmw,5 series,535i
-bmw,5 series,535i gran turismo
-bmw,5 series,535i sport wagon xdrive
-bmw,5 series,535i xdrive
-bmw,5 series,535i xdrive gran turismo
 bmw,5 series,535xi
 bmw,5 series,535xi sport wagon
 bmw,5 series,540d xdrive
 bmw,5 series,540i
 bmw,5 series,540i sedan
-bmw,5 series,540i sport wagon
-bmw,5 series,540i touring
-bmw,5 series,540i xdrive
 bmw,5 series,540i xdrive sedan
 bmw,5 series,545i
 bmw,5 series,550 gt
@@ -1477,7 +1477,6 @@ ford,windstar,windstar fwd cargo van
 ford,windstar,windstar fwd van
 ford,windstar,windstar fwd wagon
 honda,accord,accord
-honda,accord,accord 2.0t sport/touring
 honda,accord,accord coupe
 honda,accord,accord hybrid
 honda,accord,accord wagon
@@ -1518,13 +1517,8 @@ honda,odyssey,odyssey
 honda,passport,passport
 honda,pilot,pilot
 honda,prelude,prelude
-honda,prologue,prologue awd elite
-honda,prologue,prologue awd touring
-honda,prologue,prologue fwd
-honda,ridgeline,ridgeline awd
-honda,ridgeline,ridgeline awd trailsport
-honda,ridgeline,ridgeline fwd
-honda,ridgeline,ridgeline truck 4wd
+honda,prologue,prologue
+honda,ridgeline,ridgeline
 honda,s2000,s2000
 honda,stream,stream
 honda,stepwagon,stepwagon
@@ -1548,7 +1542,6 @@ hyundai,elantra,elantra hybrid blue
 hyundai,elantra,elantra limited
 hyundai,elantra,elantra n
 hyundai,elantra,elantra se
-hyundai,elantra,elantra touring
 hyundai,elantra,elantra wagon
 hyundai,entourage,entourage
 hyundai,equus,equus
@@ -1955,7 +1948,6 @@ kia,niro,niro
 kia,niro,niro electric
 kia,niro,niro fe
 kia,niro,niro plug-in hybrid
-kia,niro,niro touring
 kia,optima,optima
 kia,optima,optima (2006 new model)
 kia,optima,optima fe
@@ -2790,8 +2782,7 @@ nissan,murano,murano awd
 nissan,murano,murano crosscabriolet
 nissan,murano,murano fwd
 nissan,murano,murano hybrid
-nissan,nv200 cargo van,nv200 cargo van
-nissan,nv200 nyc taxi,nv200 nyc taxi
+nissan,nv200,nv200,
 nissan,nx,nx
 nissan,nx,nx coupe
 nissan,pathfinder,pathfinder
@@ -3079,8 +3070,6 @@ smart,fortwo,fortwo electric drive cabriolet
 smart,fortwo,fortwo electric drive convertible
 smart,fortwo,fortwo electric drive coupe
 subaru,ascent,ascent
-subaru,ascent,ascent limited/touring
-subaru,ascent,ascent limited/touring/onyx awd
 subaru,baja,baja awd
 subaru,brat,brat 4wd
 subaru,brz,brz
@@ -3143,12 +3132,8 @@ subaru,outback,outback wilderness awd
 subaru,rx turbo,rx turbo
 subaru,sedan,3 door 4wd turbo
 subaru,sedan,sedan
-subaru,sedan,sedan 4wd
-subaru,sedan,sedan/3 door
-subaru,sedan,sedan/3 door 4wd
-subaru,sedan,sedan/3door 4wd turbo
+subaru,sedan,sedan
 subaru,solterra,solterra awd
-subaru,solterra,solterra limited/touring awd
 subaru,svx,svx
 subaru,svx,svx awd
 subaru,tribeca,b9 tribeca awd
@@ -3238,6 +3223,8 @@ suzuki,x-90,x-90 rwd
 suzuki,xl7,xl7 awd
 suzuki,xl7,xl7 fwd
 tesla,model 3,model 3
+tesla,model 3,model 3 electric performance
+tesla,model 3,model 3 electric standard range
 tesla,model s,model s
 tesla,model x,model x
 tesla,model y,model y

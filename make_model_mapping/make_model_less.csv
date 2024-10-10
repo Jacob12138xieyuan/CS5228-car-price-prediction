@@ -160,6 +160,7 @@ bmw,6 series,640
 bmw,6 series,645
 bmw,6 series,650
 bmw,6 series,alpina b6
+bmw,7 series,725
 bmw,7 series,730
 bmw,7 series,735
 bmw,7 series,740
@@ -2164,7 +2165,7 @@ volkswagen,id,id
 volkswagen,id.buzz,id.buzz
 volkswagen,jetta,jetta
 volkswagen,passat,passat
-volkswagen,cc,cc
+volkswagen,passat,cc
 volkswagen,phaeton,phaeton
 volkswagen,quantum,quantum
 volkswagen,quantum,quantum wagon

@@ -137,7 +137,6 @@ bmw,3 series,330
 bmw,3 series,335
 bmw,3 series,340
 bmw,3 series,activehybrid 3
-bmw,3 series,m340
 bmw,4 series,420
 bmw,4 series,428
 bmw,4 series,430
@@ -172,8 +171,6 @@ bmw,7 series,alpina b7
 bmw,7 series,m760
 bmw,8 series,840
 bmw,8 series,850
-bmw,8 series,alpina b8 gran coupe
-bmw,8 series,m850
 bmw,active e,active e
 bmw,activehybrid x6,activehybrid x6
 bmw,i3,i3
@@ -1543,8 +1540,8 @@ mercedes-benz,a-class,a220
 mercedes-benz,a-class,a220 4matic
 mercedes-benz,a-class,amg a35 4matic
 mercedes-benz,amg gt,amg gt
-mercedes-benz,b-class,b-class electric drive
 mercedes-benz,b-class,b180
+mercedes-benz,b-class,b200
 mercedes-benz,b-class,b250
 mercedes-benz,c-class,c43
 mercedes-benz,c-class,c63
@@ -1581,21 +1578,14 @@ mercedes-benz,clc-class,clc180k
 mercedes-benz,cle-class,cle300
 mercedes-benz,cle-class,cle450
 mercedes-benz,cle-class,cle450 4matic (coupe)
+mercedes-benz,clk-class,clk200
 mercedes-benz,clk-class,clk320
-mercedes-benz,clk-class,clk320 (cabriolet)
-mercedes-benz,clk-class,clk320 cabriolet
 mercedes-benz,clk-class,clk350
-mercedes-benz,clk-class,clk350 (cabriolet)
 mercedes-benz,clk-class,clk430
-mercedes-benz,clk-class,clk430 (cabriolet)
 mercedes-benz,clk-class,clk500
-mercedes-benz,clk-class,clk500 (cabriolet)
-mercedes-benz,clk-class,clk55 amg
-mercedes-benz,clk-class,clk55 amg (cabriolet)
+mercedes-benz,clk-class,clk55
 mercedes-benz,clk-class,clk550
-mercedes-benz,clk-class,clk550 (cabriolet)
-mercedes-benz,clk-class,clk63 amg
-mercedes-benz,clk-class,clk63 amg (cabriolet)
+mercedes-benz,clk-class,clk63
 mercedes-benz,cls-class,cls53
 mercedes-benz,cls-class,cls63
 mercedes-benz,cls-class,cls350
@@ -1650,6 +1640,7 @@ mercedes-benz,g-class,g550
 mercedes-benz,gl-class,gl63
 mercedes-benz,gl-class,gl320
 mercedes-benz,gl-class,gl350
+mercedes-benz,gl-class,gl400
 mercedes-benz,gl-class,gl450
 mercedes-benz,gl-class,gl550
 mercedes-benz,gl-class,gl63
@@ -1709,6 +1700,8 @@ mercedes-benz,ml-class,ml500
 mercedes-benz,ml-class,ml55
 mercedes-benz,ml-class,ml550
 mercedes-benz,ml-class,ml63
+mercedes-benz,r-class,r280
+mercedes-benz,r-class,r300
 mercedes-benz,r-class,r320
 mercedes-benz,r-class,r350
 mercedes-benz,r-class,r500
@@ -1744,6 +1737,7 @@ mercedes-benz,sl-class,sl55
 mercedes-benz,sl-class,sl63
 mercedes-benz,sl-class,sl65
 mercedes-benz,sl-class,sl320
+mercedes-benz,sl-class,sl350
 mercedes-benz,sl-class,sl400
 mercedes-benz,sl-class,sl450
 mercedes-benz,sl-class,sl500
@@ -1925,16 +1919,10 @@ pontiac,wave,wave
 pontiac,wave,wave 5
 porsche,718,718
 porsche,911,911
-porsche,911,911 carrera
-porsche,911,911 dakar
-porsche,911,911 gt
-porsche,911,911 turbo
-porsche,918 spyder,918 spyder
-porsche,924,924 s
+porsche,918,918 spyder
+porsche,924,924
 porsche,928,928
-porsche,928,928 s4
 porsche,944,944
-porsche,944,944 turbo
 porsche,968,968
 porsche,boxster,boxster
 porsche,carrera,carrera

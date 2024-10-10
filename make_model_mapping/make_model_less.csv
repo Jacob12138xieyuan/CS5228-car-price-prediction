@@ -122,8 +122,6 @@ bmw,1 series,120i
 bmw,1 series,125i
 bmw,1 series,128i
 bmw,1 series,135i
-bmw,1 series,m135i
-bmw,1 series,m140i
 bmw,2 series,216i
 bmw,2 series,216d
 bmw,2 series,218i
@@ -132,8 +130,6 @@ bmw,2 series,220i
 bmw,2 series,228i
 bmw,2 series,225xe
 bmw,2 series,230i
-bmw,2 series,m235i
-bmw,2 series,m240i
 bmw,3 series,316i
 bmw,3 series,318i
 bmw,3 series,318ci
@@ -181,7 +177,6 @@ bmw,4 series,428i
 bmw,4 series,430i
 bmw,4 series,435i
 bmw,4 series,440i
-bmw,4 series,m440i
 bmw,5 series,520i
 bmw,5 series,520d
 bmw,5 series,523i
@@ -280,9 +275,8 @@ bmw,i7,i7
 bmw,i8,i8
 bmw,m,m coupe
 bmw,m,m roadster
+bmw,m,m1
 bmw,m,m2
-bmw,m,m235i
-bmw,m,m240i
 bmw,m,m3
 bmw,m,m4
 bmw,m,m5
@@ -691,10 +685,8 @@ chrysler,conquest,conquest
 chrysler,crossfire,crossfire
 chrysler,crossfire,crossfire coupe
 chrysler,crossfire,crossfire roadster
-chrysler,e class/new yorker,e class/new yorker
 chrysler,executive sedan/limousine,executive sedan/limousine
 chrysler,fifth avenue/imperial,fifth avenue/imperial
-chrysler,imperial/new yorker fifth avenue,imperial/new yorker fifth avenue
 chrysler,jx/jxi/limited convertible,jx/jxi/limited convertible
 chrysler,laser,laser
 chrysler,laser/daytona,laser/daytona
@@ -705,11 +697,6 @@ chrysler,lebaron,lebaron landau
 chrysler,lhs,lhs
 chrysler,limousine,limousine
 chrysler,new yorker,new yorker
-chrysler,new yorker,new yorker turbo
-chrysler,new yorker fifth avenue/imperial,new yorker fifth avenue/imperial
-chrysler,new yorker/5th avenue,new yorker/5th avenue
-chrysler,new yorker/lhs,new yorker/lhs
-chrysler,newport/fifth avenue,newport/fifth avenue
 chrysler,pacifica,pacifica
 chrysler,pacifica,pacifica 2wd
 chrysler,pacifica,pacifica awd
@@ -871,15 +858,9 @@ ferrari,550,550
 ferrari,575,575
 ferrari,575 m maranello,575 m maranello
 ferrari,575 m maranello and superamerica,575 m maranello and superamerica
-ferrari,599 gtb,599 gtb
-ferrari,599 gtb fiorano,599 gtb fiorano
-ferrari,599 gto,599 gto
-ferrari,599 sa aperta,599 sa aperta
+ferrari,599,599
 ferrari,612 scaglietti,612 scaglietti
-ferrari,812 competizione,812 competizione
-ferrari,812 competizione,812 competizione a
-ferrari,812 gts,812 gts
-ferrari,812 superfast,812 superfast
+ferrari,812,812
 ferrari,california,california
 ferrari,daytona sp3,daytona sp3
 ferrari,enzo ferrari,enzo ferrari
@@ -902,9 +883,8 @@ ferrari,ferrari 550 maranello,ferrari 550 maranello
 ferrari,ferrari f355,ferrari f355
 ferrari,ferrari f355 berlinetta/gts,ferrari f355 berlinetta/gts
 ferrari,ferrari f355/355 f1,ferrari f355/355 f1
-ferrari,ferrari f50,ferrari f50
-ferrari,ferrari f512m,ferrari f512m
-ferrari,ferrari mondial t/cabriolet,ferrari mondial t/cabriolet
+ferrari,ferrari f50,f50
+ferrari,ferrari f512m,f512m
 ferrari,ff,ff
 ferrari,gtc4lusso,gtc4lusso
 ferrari,gtc4lusso,gtc4lusso t
@@ -916,13 +896,10 @@ ferrari,mondial/cabriolet,mondial/cabriolet
 ferrari,monza sp1,monza sp1
 ferrari,monza sp2,monza sp2
 ferrari,portofino,portofino
-ferrari,portofino,portofino m
 ferrari,purosangue,purosangue
 ferrari,roma,roma
 ferrari,roma,roma spider
-ferrari,sf90 spider,sf90 spider
-ferrari,sf90 stradale,sf90 stradale
-ferrari,sf90 stradale coupe,sf90 stradale coupe
+ferrari,sf90 spider,sf90
 ferrari,testarossa,testarossa
 fiat,124 spider,124 spider
 fiat,500,500
@@ -1044,19 +1021,6 @@ ford,f150,f150 2.7l 4wd gvwr>6799 lbs payload package
 ford,f150,f150 2wd base payload lt tire
 ford,f150,f150 2wd ffv base payload lt
 ford,f150,f150 2wd ffv base payload lt tire
-ford,f150,f150 3.5l 2wd gvwr>7599 lbs
-ford,f150,f150 3.5l 2wd gvwr>7599 lbs payload package
-ford,f150,f150 3.5l 4wd gvwr>7599 lbs
-ford,f150,f150 3.5l 4wd gvwr>7599 lbs payload package
-ford,f150,f150 4wd base payload lt tire
-ford,f150,f150 4wd ffv base payload lt
-ford,f150,f150 4wd ffv base payload lt tire
-ford,f150,f150 5.0l 2wd ffv gvwr>7599 lbs
-ford,f150,f150 5.0l 2wd ffv gvwr>7599 lbs payload package
-ford,f150,f150 5.0l 2wd gvwr>7599 lbs
-ford,f150,f150 5.0l 4wd ffv gvwr>7599 lbs
-ford,f150,f150 5.0l 4wd ffv gvwr>7599 lbs payload package
-ford,f150,f150 5.0l 4wd gvwr>7599 lbs
 ford,f150,f150 cng
 ford,f150,f150 dual-fuel 2wd (cng)
 ford,f150,f150 dual-fuel 2wd (lpg)
@@ -1176,23 +1140,8 @@ honda,zr-v,zr-v
 hummer,h3,h3 4wd
 hummer,h3t,h3t 4wd
 hyundai,accent,accent
-hyundai,accent,accent (sohc)
-hyundai,accent,accent (sporty)
-hyundai,accent,accent blue
-hyundai,accent/brio,accent/brio
 hyundai,azera,azera
-hyundai,azera,azera limited
 hyundai,elantra,elantra
-hyundai,elantra,elantra blue
-hyundai,elantra,elantra coupe
-hyundai,elantra,elantra gt
-hyundai,elantra,elantra hatchback
-hyundai,elantra,elantra hybrid
-hyundai,elantra,elantra hybrid blue
-hyundai,elantra,elantra limited
-hyundai,elantra,elantra n
-hyundai,elantra,elantra se
-hyundai,elantra,elantra wagon
 hyundai,entourage,entourage
 hyundai,equus,equus
 hyundai,excel,excel
@@ -1421,17 +1370,10 @@ jeep,cherokee/wagoneer,cherokee/wagoneer 4wd
 jeep,cj,cj7
 jeep,cj,cj7 4wd
 jeep,cj,cj8 4wd
-jeep,comanche,comanche 2wd
-jeep,comanche,comanche 4wd
-jeep,comanche pickup,comanche pickup 2wd
-jeep,comanche pickup,comanche pickup 4wd
-jeep,commander,commander 2wd
-jeep,commander,commander 4wd
-jeep,compass,compass 2wd
-jeep,compass,compass 4wd
-jeep,compass,compass fwd
-jeep,compass,new compass 2wd
-jeep,compass,new compass 4wd
+jeep,comanche,comanche
+jeep,comanche pickup,comanche pickup
+jeep,commander,commander
+jeep,compass,compass
 jeep,gladiator,gladiator 4wd
 jeep,gladiator,gladiator ecodiesel 4wd
 jeep,gladiator,gladiator rubic ecodiesel 4wd
@@ -1470,27 +1412,10 @@ jeep,renegade,renegade 4wd
 jeep,renegade,renegade trailhawk 4wd
 jeep,scrambler,scrambler
 jeep,scrambler pickup,scrambler pickup 4wd
-jeep,wagoneer,wagoneer 2wd
-jeep,wagoneer,wagoneer 4wd
-jeep,wagoneer,wagoneer l 2wd
-jeep,wagoneer,wagoneer l 4wd
-jeep,wagoneer,wagoneer limited 4wd
-jeep,wrangler,new wrangler 4wd
-jeep,wrangler,new wrangler unlimited 4wd
-jeep,wrangler,wrangler 2dr 4wd
-jeep,wrangler,wrangler 2wd
-jeep,wrangler,wrangler 4dr 4wd
-jeep,wrangler,wrangler 4dr 4xe
-jeep,wrangler,wrangler 4dr ecodiesel 4wd
-jeep,wrangler,wrangler 4wd
-jeep,wrangler,wrangler rubic 4dr ecodiesel 4wd
-jeep,wrangler,wrangler rubicon 2dr 4wd
-jeep,wrangler,wrangler rubicon 4dr 4wd
-jeep,wrangler,wrangler unlimited 4wd
-jeep,wrangler/tj,wrangler/tj 4wd
+jeep,wagoneer,wagoneer
+jeep,wrangler,wrangler
 kia,amanti,amanti
-kia,borrego,borrego 2wd
-kia,borrego,borrego 4wd
+kia,borrego,borrego
 kia,cadenza,cadenza
 kia,cerato,cerato
 kia,cerato,cerato forte koup
@@ -1872,6 +1797,7 @@ mercedes-benz,clk-class,clk63 amg
 mercedes-benz,clk-class,clk63 amg (cabriolet)
 mercedes-benz,cls-class,cls53
 mercedes-benz,cls-class,cls63
+mercedes-benz,cls-class,cls350
 mercedes-benz,cls-class,cls400
 mercedes-benz,cls-class,cls450
 mercedes-benz,cls-class,cls500
@@ -1895,7 +1821,6 @@ mercedes-benz,e-class,e450
 mercedes-benz,e-class,e500
 mercedes-benz,e-class,e55
 mercedes-benz,e-class,e550
-mercedes-benz,eqa,eqa
 mercedes-benz,eqa,eqa250
 mercedes-benz,eqa,eqa300
 mercedes-benz,eqa,eqa350
@@ -1903,23 +1828,26 @@ mercedes-benz,eqb,eqb250
 mercedes-benz,eqb,eqb300
 mercedes-benz,eqb,eqb350
 mercedes-benz,eqc,eqc400
-mercedes-benz,eqe,eqe
 mercedes-benz,eqe,eqe53
 mercedes-benz,eqe,eqe350
 mercedes-benz,eqe,eqe500
 mercedes-benz,eqs,eqs53
-mercedes-benz,eqs,eqs 450
-mercedes-benz,eqs,eqs 450
-mercedes-benz,eqs,eqs 580
-mercedes-benz,eqs,eqs 680
+mercedes-benz,eqs,eqs350
+mercedes-benz,eqs,eqs450
+mercedes-benz,eqs,eqs580
+mercedes-benz,eqs,eqs680
+mercedes-benz,eqv,eqv300
+mercedes-benz,evito,evito
 mercedes-benz,g-class,g63
 mercedes-benz,g-class,g65
 mercedes-benz,g-class,g400
 mercedes-benz,g-class,g500
 mercedes-benz,g-class,g55
+mercedes-benz,g-class,g350
 mercedes-benz,g-class,g550
 mercedes-benz,gl-class,gl63
 mercedes-benz,gl-class,gl320
+mercedes-benz,gl-class,gl350
 mercedes-benz,gl-class,gl450
 mercedes-benz,gl-class,gl550
 mercedes-benz,gl-class,gl63
@@ -1952,11 +1880,15 @@ mercedes-benz,gle-class,gle580
 mercedes-benz,glk-class,glk250
 mercedes-benz,glk-class,glk350
 mercedes-benz,gls-class,gls63
+mercedes-benz,gls-class,gls350
 mercedes-benz,gls-class,gls400
 mercedes-benz,gls-class,gls450
 mercedes-benz,gls-class,gls550
 mercedes-benz,gls-class,gls580
 mercedes-benz,gls-class,gls600
+mercedes-benz,v-class,v220
+mercedes-benz,v-class,v250
+mercedes-benz,v-class,v260
 mercedes-benz,maybach,maybach s550 4matic
 mercedes-benz,maybach,maybach s600
 mercedes-benz,maybach,maybach s650 convertible
@@ -1968,35 +1900,23 @@ mercedes-benz,metris cargo,metris (us postal)
 mercedes-benz,metris passenger,metris (passenger van)
 mercedes-benz,ml-class,ml250 bluetec 4matic
 mercedes-benz,ml-class,ml320
-mercedes-benz,ml-class,ml320 cdi 4matic
 mercedes-benz,ml-class,ml350
-mercedes-benz,ml-class,ml350 4matic
-mercedes-benz,ml-class,ml400 4matic
+mercedes-benz,ml-class,ml400
 mercedes-benz,ml-class,ml430
 mercedes-benz,ml-class,ml500
-mercedes-benz,ml-class,ml500 4matic
 mercedes-benz,ml-class,ml55
-mercedes-benz,ml-class,ml55 amg
-mercedes-benz,ml-class,ml550 4matic
-mercedes-benz,ml-class,ml63 amg
-mercedes-benz,r-class,r320 cdi 4matic
+mercedes-benz,ml-class,ml550
+mercedes-benz,ml-class,ml63
+mercedes-benz,r-class,r320
 mercedes-benz,r-class,r350
-mercedes-benz,r-class,r350 4matic
 mercedes-benz,r-class,r500
-mercedes-benz,r-class,r500 4matic
-mercedes-benz,r-class,r63 amg
-mercedes-benz,s-class,amg s63 4matic
-mercedes-benz,s-class,amg s63 4matic convertible
-mercedes-benz,s-class,amg s63 4matic coupe
-mercedes-benz,s-class,amg s63 4matic plus
-mercedes-benz,s-class,amg s63 4matic plus convertible
-mercedes-benz,s-class,amg s63 4matic plus coupe
-mercedes-benz,s-class,amg s65
-mercedes-benz,s-class,amg s65 convertible
-mercedes-benz,s-class,amg s65 coupe
-mercedes-benz,s-class,maybach s560 4matic
-mercedes-benz,s-class,maybach s650
-mercedes-benz,s-class,maybach s680 4matic
+mercedes-benz,r-class,r63
+mercedes-benz,s-class,s63
+mercedes-benz,s-class,s65
+mercedes-benz,s-class,s560
+mercedes-benz,s-class,s650
+mercedes-benz,s-class,s680
+mercedes-benz,s-class,s300
 mercedes-benz,s-class,s320
 mercedes-benz,s-class,s350
 mercedes-benz,s-class,s400
@@ -2004,7 +1924,7 @@ mercedes-benz,s-class,s420
 mercedes-benz,s-class,s430
 mercedes-benz,s-class,s450
 mercedes-benz,s-class,s500
-mercedes-benz,s-class,s55 amg
+mercedes-benz,s-class,s55
 mercedes-benz,s-class,s550
 mercedes-benz,s-class,s560
 mercedes-benz,s-class,s580
@@ -2025,13 +1945,11 @@ mercedes-benz,sl-class,sl320
 mercedes-benz,sl-class,sl400
 mercedes-benz,sl-class,sl450
 mercedes-benz,sl-class,sl500
-mercedes-benz,sl-class,sl55 amg
 mercedes-benz,sl-class,sl550
 mercedes-benz,sl-class,sl600
-mercedes-benz,sl-class,sl63 amg
-mercedes-benz,sl-class,sl65 amg
 mercedes-benz,slc-class,slc43
 mercedes-benz,slc-class,slc180
+mercedes-benz,slc-class,slc200
 mercedes-benz,slc-class,slc300
 mercedes-benz,slk-class,slk55
 mercedes-benz,slk-class,slk200
@@ -2045,60 +1963,8 @@ mercedes-benz,slk-class,slk350
 mercedes-benz,slr,slr
 mercedes-benz,sls amg,sls amg
 mini,one,one
-mini,one,one clubman
-mini,clubman,clubman
-mini,clubman,clubman s
-mini,clubman,cooper clubman
-mini,clubman,cooper clubman all4
-mini,clubman,cooper s clubman
-mini,clubman,cooper s clubman all4
-mini,clubman,john cooper works clubman
-mini,clubman,john cooper works clubman all4
 mini,cooper,cooper
-mini,cooper,cooper (3-doors)
-mini,cooper,cooper (5-doors)
-mini,cooper,cooper clubvan
-mini,cooper,cooper convertible
-mini,cooper,cooper coupe
-mini,cooper,cooper hardtop 2 door
-mini,cooper,cooper hardtop 4 door
-mini,cooper,cooper s
-mini,cooper,cooper s (3-doors)
-mini,cooper,cooper s (5-doors)
-mini,cooper,cooper s convertible
-mini,cooper,cooper s coupe
-mini,cooper,cooper s hardtop 2 door
-mini,cooper,cooper s hardtop 4 door
-mini,cooper,cooper s jcworks gp kit
-mini,cooper,cooper se hardtop 2 door
-mini,countryman,cooper countryman
-mini,countryman,cooper countryman all4
-mini,countryman,cooper countryman coupe
-mini,countryman,cooper s countryman
-mini,countryman,cooper s countryman all4
-mini,countryman,cooper s countryman coupe
-mini,countryman,cooper s countryman coupe all4
-mini,countryman,cooper se countryman all4
-mini,countryman,countryman s all4
-mini,countryman,jcw countryman all4
-mini,countryman,jcw countryman coupe all4
-mini,john cooper works,jcw countryman all4
-mini,john cooper works,john cooper works
-mini,john cooper works,john cooper works clubman all4
-mini,john cooper works,john cooper works convertible
-mini,john cooper works,john cooper works coupe
-mini,john cooper works,john cooper works gp
-mini,john cooper works,john cooper works gp-2
-mini,john cooper works,john cooper works hardtop
-mini,john cooper works,john cooper works hardtop 2 door
 mini,minie,minie
-mini,paceman,cooper paceman
-mini,paceman,cooper s paceman
-mini,paceman,cooper s paceman all4
-mini,paceman,jcw paceman all4
-mini,roadster,cooper roadster
-mini,roadster,cooper s roadster
-mini,roadster,john cooper works roadster
 mitsubishi,3000 gt,3000 gt
 mitsubishi,cordia,cordia
 mitsubishi,diamante,diamante
@@ -2129,14 +1995,8 @@ nissan,200sx,200sx
 nissan,200zr,200zr
 nissan,fairlady,300zx
 nissan,fairlady,350z
-nissan,fairlady,350z roadster
 nissan,fairlady,370z
-nissan,fairlady,370z roadster
 nissan,altima,altima
-nissan,altima,altima
-nissan,altima,altima coupe
-nissan,altima,altima hybrid
-nissan,altima,altima sr
 nissan,altra ev,altra ev
 nissan,ariya,ariya engage
 nissan,ariya,ariya plat plus
@@ -2159,8 +2019,9 @@ nissan,leaf,leaf sv
 nissan,leaf,leaf sl
 nissan,maxima,maxima
 nissan,nv200,nv200
+nissan,nv350,nv350
 nissan,nx,nx
-nissan,nx,nx coupe
+nissan,navara,navara
 nissan,pathfinder,pathfinder
 nissan,pathfinder,pathfinder van
 nissan,pickup,pickup
@@ -2176,9 +2037,12 @@ nissan,titan,titan fe
 nissan,truck,truck
 nissan,truck,truck cab chassis
 nissan,van,van
+nissan,urvan,urvan
 nissan,versa,versa
 nissan,versa,versa fe
 nissan,xterra,xterra
+opel,vivaro,rivaro
+opel,zafira,zafira
 peugeot,405,405 sedan
 peugeot,405,405 sports wagon
 peugeot,405,405 station wagon
@@ -2260,19 +2124,9 @@ pontiac,wave,wave
 pontiac,wave,wave 5
 porsche,718,718
 porsche,911,911
-porsche,911,911 c4 gts
 porsche,911,911 carrera
 porsche,911,911 dakar
-porsche,911,911 gt2
-porsche,911,911 gt3
-porsche,911,911 gts
-porsche,911,911 r
-porsche,911,911 s/t
-porsche,911,911 sc
-porsche,911,911 speedster
-porsche,911,911 sport classic
-porsche,911,911 targa
-porsche,911,911 targa 4
+porsche,911,911 gt
 porsche,911,911 turbo
 porsche,918 spyder,918 spyder
 porsche,924,924 s
@@ -2282,51 +2136,13 @@ porsche,944,944
 porsche,944,944 turbo
 porsche,968,968
 porsche,boxster,boxster
-porsche,boxster,boxster gts
-porsche,boxster,boxster s
-porsche,boxster,boxster spyder
-porsche,boxster,boxster t
 porsche,carrera,carrera
-porsche,carrera gt,carrera gt
 porsche,cayenne,cayenne
-porsche,cayenne,cayenne coupe
-porsche,cayenne,cayenne diesel
-porsche,cayenne,cayenne gts
-porsche,cayenne,cayenne platinum
-porsche,cayenne,cayenne s
-porsche,cayenne,cayenne transsiberia
-porsche,cayenne,cayenne turbo
-porsche,cayenne,cayenne turbo coupe
-porsche,cayenne,cayenne turbo gt
-porsche,cayenne,cayenne turbo kit
-porsche,cayenne,cayenne turbo s
 porsche,cayman,cayman
-porsche,cayman,cayman gt4
-porsche,cayman,cayman gts
-porsche,cayman,cayman r
-porsche,cayman,cayman s
-porsche,cayman,cayman t
 porsche,macan,macan
-porsche,macan,macan gts
-porsche,macan,macan s
-porsche,macan,macan t
-porsche,macan,macan turbo
-porsche,new 911 carrera,new 911 carrera
-porsche,new 911 carrera,new 911 carrera s
 porsche,panamera,panamera
-porsche,panamera,panamera 4
-porsche,panamera,panamera 4s
-porsche,panamera,panamera gts
-porsche,panamera,panamera gts st
-porsche,panamera,panamera s
-porsche,panamera,panamera turbo
-porsche,panamera,panamera turbo s
-porsche,panamera,panamera turbo st
 porsche,targa,targa
 porsche,taycan,taycan
-porsche,taycan,taycan gts
-porsche,taycan,taycan turbo
-porsche,taycan,taycan turbo s
 renault,18i/wagon/sportwagon,18i
 renault,18i/wagon/sportwagon,sportwagon
 renault,alliance/encore,alliance
@@ -2364,23 +2180,12 @@ rolls-royce,eight/mulsan/mulsanne,eight/mulsanne s
 rolls-royce,eight/mulsan/mulsanne,eight/mulsanne s and s
 rolls-royce,flying spur,flying spur
 rolls-royce,ghost,ghost
-rolls-royce,ghost,ghost black badge
-rolls-royce,ghost,ghost ewb
-rolls-royce,ghost,ghost extended
 rolls-royce,limousine,limousine
 rolls-royce,park ward,park ward
 rolls-royce,phantom,phantom
-rolls-royce,phantom,phantom coupe
-rolls-royce,phantom,phantom drophead coupe
-rolls-royce,phantom,phantom ewb
-rolls-royce,phantom,phantom extended
 rolls-royce,silver dawn,silver dawn
 rolls-royce,silver seraph,silver seraph
-rolls-royce,silver spirit ii/silver spur,silver spirit
-rolls-royce,silver spur,silver spur
-rolls-royce,silver spur/silver dawn,silver shadow
-rolls-royce,spectre,spectre (22 inch wheels)
-rolls-royce,spectre,spectre (23 inch wheels)
+rolls-royce,silver,silver
 rolls-royce,spectre,spectre black badge (22 inch wheels)
 rolls-royce,spectre,spectre black badge (23 inch wheels)
 rolls-royce,spirit iii/spur iii/dawn,spirit iii/spur iii/dawn
@@ -2393,21 +2198,9 @@ ruf automobile,turbo12/ctr3/ctr anniversary,turbo12/ctr3/ctr anniversary
 ruf automobile gmbh,ruf,ruf
 saab,9-2,9-2x wagon awd
 saab,9-3,9-3
-saab,9-3,9-3 convertible
-saab,9-3,9-3 sedan awd
-saab,9-3,9-3 sport sedan
-saab,9-3,9-3 sportcombi
-saab,9-3,9-3 viggen
-saab,9-3,9-3 viggen convertible
-saab,9-3,9-3x sportcombi awd
-saab,9-4,9-4x awd
-saab,9-4,9-4x fwd
+saab,9-4,9-4
 saab,9-5,9-5
-saab,9-5,9-5 sedan
-saab,9-5,9-5 sedan awd
-saab,9-5,9-5 sportcombi
-saab,9-5,9-5 wagon
-saab,9-7,9-7x awd
+saab,9-7,9-7
 saab,900,900
 saab,900,900 convertible
 saab,900,900s
@@ -2457,59 +2250,21 @@ subaru,impreza/outback sport,impreza wagon/outback sport
 subaru,impreza/outback sport,impreza wagon/outback sport awd
 subaru,impreza/outback sport,impreza wagon/outback spt awd
 subaru,justy,justy
-subaru,justy,justy 4wd
-subaru,justy,justy awd
-subaru,legacy,legacy awd
-subaru,legacy/outback,legacy
-subaru,legacy/outback,legacy 4wd
-subaru,legacy/outback,legacy 4wd turbo
-subaru,legacy/outback,legacy awd
-subaru,legacy/outback,legacy awd (incl. outback)
-subaru,legacy/outback,legacy awd turbo
-subaru,legacy/outback,legacy turbo
-subaru,legacy/outback,legacy wagon
-subaru,legacy/outback,legacy wagon 4wd
-subaru,legacy/outback,legacy wagon awd
-subaru,legacy/outback,legacy wagon awd (incl. outback)
-subaru,legacy/outback,legacy wagon awd turbo
-subaru,legacy/outback,legacy/outback awd
-subaru,legacy/outback,legacy/outback wagon awd
-subaru,legacy/outback,outback awd
-subaru,legacy/outback,outback wagon awd
+subaru,legacy,legacy
 subaru,loyale,loyale
-subaru,loyale,loyale 4wd
-subaru,loyale,loyale 4wd turbo
-subaru,loyale,loyale awd
-subaru,loyale,loyale wagon
-subaru,loyale,loyale wagon 4wd
-subaru,loyale,loyale wagon 4wd turbo
-subaru,loyale,loyale wagon awd
-subaru,outback,outback awd
-subaru,outback,outback wilderness awd
+subaru,outback,outback
 subaru,rx turbo,rx turbo
 subaru,sedan,3 door 4wd turbo
 subaru,sedan,sedan
-subaru,sedan,sedan
 subaru,solterra,solterra awd
 subaru,svx,svx
-subaru,svx,svx awd
-subaru,tribeca,b9 tribeca awd
-subaru,tribeca,tribeca awd
+subaru,tribeca,tribeca
 subaru,wagon,wagon
-subaru,wagon,wagon 4wd
-subaru,wagon,wagon 4wd turbo
 subaru,wrx,wrx
-subaru,wrx,wrx sti type ra
 subaru,xt,xt
 subaru,xv,xv
 suzuki,aerio,aerio
-suzuki,aerio,aerio 4wd
-suzuki,aerio,aerio awd
-suzuki,aerio,aerio sx
-suzuki,aerio,aerio sx 4wd
-suzuki,aerio,aerio sx awd
-suzuki,equator,equator 2wd
-suzuki,equator,equator 4wd
+suzuki,equator,equator
 suzuki,esteem,esteem
 suzuki,esteem,esteem wagon
 suzuki,forenza,forenza
@@ -2580,14 +2335,14 @@ suzuki,x-90,x-90 rwd
 suzuki,xl7,xl7 awd
 suzuki,xl7,xl7 fwd
 tesla,model 3,model 3
-tesla,model 3,model 3 electric performance
-tesla,model 3,model 3 electric standard range
 tesla,model s,model s
 tesla,model x,model x
 tesla,model y,model y
 toyota,4runner,4runner
 toyota,86,86
 toyota,gr,gr86
+toyota,gr,granace
+toyota,gr 86,gr 86
 toyota,avalon,avalon
 toyota,bz4x,bz4x
 toyota,c-hr,c-hr
@@ -2601,7 +2356,6 @@ toyota,cressida,cressida
 toyota,crown,crown awd
 toyota,echo,echo
 toyota,fj cruiser,fj cruiser
-toyota,gr 86,gr 86
 toyota,gr supra,gr supra
 toyota,highlander,highlander
 toyota,land cruiser,land cruiser
@@ -2612,18 +2366,9 @@ toyota,mr2,mr2
 toyota,paseo,paseo
 toyota,previa,previa
 toyota,prius,prius
-toyota,prius,prius c
-toyota,prius,prius eco
-toyota,prius c,prius c
-toyota,prius prime,prius prime
-toyota,prius prime,prius prime se
-toyota,prius v,prius v
 toyota,rav4,rav4
-toyota,rav4,rav4
-toyota,rav4 prime,rav4 prime 4wd
 toyota,sequoia,sequoia
 toyota,sienna,sienna
-toyota,sienna,sienna hybrid
 toyota,starlet,starlet
 toyota,supra,supra
 toyota,tacoma,tacoma
@@ -2651,11 +2396,8 @@ toyota,van,van 4wd
 toyota,van,van 4wd (cargo)
 toyota,van,van 4wd (passenger)
 toyota,venza,venza
-toyota,venza,venza 4wd
-toyota,venza,venza awd
 toyota,yaris,yaris
 toyota,yaris,gr yaris
-toyota,yaris,yaris ia
 volkswagen,arteon,arteon
 volkswagen,arteon,arteon 4motion
 volkswagen,atlas,atlas
@@ -2666,53 +2408,19 @@ volkswagen,atlas,atlas cross sport 4motion
 volkswagen,atlas,atlas se 4motion
 volkswagen,atlas,atlas sel 4motion
 volkswagen,beetle,beetle
-volkswagen,beetle,beetle convertible
-volkswagen,beetle,beetle dune
-volkswagen,beetle,beetle dune convertible
-volkswagen,beetle,new beetle
-volkswagen,beetle,new beetle convertible
 volkswagen,cabrio,cabrio
 volkswagen,cabriolet,cabriolet
-volkswagen,cc,cc
-volkswagen,cc,cc 4motion
 volkswagen,corrado,corrado
-volkswagen,corrado,corrado slc
 volkswagen,eos,eos
 volkswagen,eurovan,eurovan
-volkswagen,eurovan,eurovan camper
 volkswagen,fox,fox
-volkswagen,fox,fox gl wagon
-volkswagen,fox,fox wagon
 volkswagen,gli,gli
-volkswagen,golf/gti,e-golf
-volkswagen,golf/gti,golf
-volkswagen,golf/gti,golf alltrack
-volkswagen,golf/gti,golf iii
-volkswagen,golf/gti,golf iii / gti
-volkswagen,golf/gti,golf r
-volkswagen,golf/gti,golf sportwagen
-volkswagen,golf/gti,golf sportwagen 4motion
-volkswagen,golf/gti,golf-r
-volkswagen,golf/gti,golf/gti
-volkswagen,golf/gti,gti
-volkswagen,golf/gti,gti 16v
-volkswagen,golf/gti,gti vr6
-volkswagen,golf/gti,gti/golf gt
-volkswagen,golf/gti,new golf
-volkswagen,golf/gti,new gti
-volkswagen,id.4,id.4
-volkswagen,id.4,id.4 1st
-volkswagen,id.4,id.4 awd pro
-volkswagen,id.4,id.4 awd pro s
-volkswagen,id.4,id.4 pro
-volkswagen,id.4,id.4 pro s
-volkswagen,id.4,id.4 s
+volkswagen,golf,golf
+volkswagen,polo,polo
+volkswagen,id,id
+volkswagen,id.buzz,id.buzz
 volkswagen,jetta,jetta
-volkswagen,jetta,jetta hybrid
-volkswagen,jetta,jetta wagon
-volkswagen,jetta,new jetta
 volkswagen,passat,passat
-volkswagen,passat,passat wagon
 volkswagen,phaeton,phaeton
 volkswagen,quantum,quantum
 volkswagen,quantum,quantum wagon
@@ -2726,11 +2434,6 @@ volkswagen,scirocco,scirocco 16v
 volkswagen,taos,taos
 volkswagen,taos,taos 4motion
 volkswagen,tiguan,tiguan
-volkswagen,tiguan,tiguan 4motion
-volkswagen,tiguan,tiguan limited
-volkswagen,tiguan,tiguan limited 4motion
-volkswagen,tiguan,tiguan r-line 4motion
-volkswagen,tiguan,tiguan s
 volkswagen,touareg,touareg
 volvo,240,240
 volvo,240,240 dl/240 gl
@@ -2762,59 +2465,21 @@ volvo,960,960
 volvo,960,960 wagon
 volvo,960 wagon/v90,960 wagon/v90
 volvo,960/s90,960/s90
-volvo,c30,c30 fwd
-volvo,c40,c40 recharge
+volvo,c30,c30
+volvo,c40,c40
 volvo,c70,c70
-volvo,c70,c70 convertible
-volvo,c70,c70 coupe
-volvo,c70,c70 fwd
-volvo,c70,new c70 convertible
 volvo,coupe,coupe
-volvo,s40,s40 awd
-volvo,s40,s40 fwd
+volvo,s40,s40
 volvo,s60,s60
-volvo,s60,s60 awd
-volvo,s60,s60 awd phev
-volvo,s60,s60 b5
-volvo,s60,s60 b5 awd
-volvo,s60,s60 cc awd
-volvo,s60,s60 fwd
-volvo,s60,s60 inscription awd
-volvo,s60,s60 inscription fwd
-volvo,s60,s60 polestar awd
-volvo,s60,s60 r awd
-volvo,s60,s60 t8 awd recharge
-volvo,s60,s60 t8 awd recharge ext. range
 volvo,s70,s70
-volvo,s70,s70 awd
 volvo,s80,s80
-volvo,s80,s80 awd
-volvo,s80,s80 fwd
-volvo,s80,s80/s80 executive
-volvo,s80,s80/s80 premier
 volvo,s90,s90
-volvo,s90,s90 awd
-volvo,s90,s90 awd phev
-volvo,s90,s90 b6 awd
-volvo,s90,s90 fwd
-volvo,s90,s90 t8 awd recharge
-volvo,s90,s90 t8 awd recharge ext. range
 volvo,v40,v40
 volvo,v50,v50
 volvo,v60,v60
-volvo,v60,v60 polestar
-volvo,v60,v60 t8
-volvo,v60,v60cc
 volvo,v70,v70
-volvo,v70 xc,v70 xc
 volvo,v90,v90
 volvo,xc40,xc40
-volvo,xc40,xc40 t4
-volvo,xc40,xc40 t5
 volvo,xc60,xc60
-volvo,xc60,xc60 t8
 volvo,xc70,xc70
 volvo,xc90,xc90
-volvo,xc90,xc90 t5
-volvo,xc90,xc90 t6
-volvo,xc90,xc90 t8

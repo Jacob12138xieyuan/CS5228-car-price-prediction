@@ -1287,8 +1287,6 @@ kia,niro,niro
 kia,niro,niro electric
 kia,niro,niro fe
 kia,optima,optima
-kia,optima,optima fe
-kia,optima,optima s
 kia,rio,rio
 kia,rio,rio eco
 kia,rondo,rondo
@@ -1362,6 +1360,7 @@ lexus,nx,nx350
 lexus,nx,nx450
 lexus,rc,rc200
 lexus,rc,rc350
+lexus,rx,rx200
 lexus,rx,rx270
 lexus,rx,rx300
 lexus,rx,rx330
@@ -1711,6 +1710,7 @@ mercedes-benz,slk-class,slk300
 mercedes-benz,slk-class,slk32
 mercedes-benz,slk-class,slk320
 mercedes-benz,slk-class,slk350
+mercedes-benz,x-class,x250
 mercedes-benz,slr,slr
 mercedes-benz,sls amg,sls amg
 mini,one,one

@@ -1323,6 +1323,7 @@ lexus,es,es300
 lexus,es,es330
 lexus,es,es350
 lexus,gs,gs200
+lexus,gs,gs250
 lexus,gs,gs300
 lexus,gs,gs350
 lexus,gs,gs430
@@ -1356,6 +1357,7 @@ lexus,nx,nx250
 lexus,nx,nx300
 lexus,nx,nx350
 lexus,nx,nx450
+lexus,rc,rc f
 lexus,rc,rc200
 lexus,rc,rc350
 lexus,rx,rx200

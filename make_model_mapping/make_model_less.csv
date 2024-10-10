@@ -1321,114 +1321,65 @@ land rover,lr2,lr2
 land rover,lr3,lr3
 land rover,lr4,lr4
 lexus,ct,ct 200h
-lexus,es,es 250
-lexus,es,es 250 awd
-lexus,es,es 300
-lexus,es,es 300h
-lexus,es,es 330
-lexus,es,es 350
-lexus,es,es 350 f sport
-lexus,gs,gs 200t
-lexus,gs,gs 200t f sport
-lexus,gs,gs 300
-lexus,gs,gs 300 4wd
-lexus,gs,gs 300 f sport
-lexus,gs,gs 300/gs 400
-lexus,gs,gs 300/gs 430
-lexus,gs,gs 350
-lexus,gs,gs 350 awd
-lexus,gs,gs 350 f sport
-lexus,gs,gs 430
-lexus,gs,gs 450h
-lexus,gs,gs 460
-lexus,gs,gs f
+lexus,es,es250
+lexus,es,es300
+lexus,es,es330
+lexus,es,es350
+lexus,gs,gs200
 lexus,gs,gs300
-lexus,gx,gx 460
-lexus,gx,gx 470
-lexus,gx,gx 550
-lexus,hs,hs 250h
-lexus,is,is 200t
-lexus,is,is 250
-lexus,is,is 250 awd
-lexus,is,is 250 c
-lexus,is,is 250/is 250c
-lexus,is,is 300
-lexus,is,is 300 awd
-lexus,is,is 350
-lexus,is,is 350 awd
-lexus,is,is 350 c
-lexus,is,is 350/is 350c
-lexus,is,is 500
+lexus,gs,gs350
+lexus,gs,gs430
+lexus,gs,gs450
+lexus,gs,gs460
+lexus,gs,gs f
+lexus,gx,gx460
+lexus,gx,gx470
+lexus,gx,gx550
+lexus,hs,hs250h
+lexus,is,is200
+lexus,is,is250
+lexus,is,is300
+lexus,is,is350
+lexus,is,is500
 lexus,is f,is f
-lexus,lc,lc 500
-lexus,lc,lc 500 convertible
-lexus,lc,lc 500h
+lexus,lc,lc500
 lexus,lfa,lfa
-lexus,ls,ls 400
-lexus,ls,ls 430
-lexus,ls,ls 460
-lexus,ls,ls 460 awd
-lexus,ls,ls 460 l
-lexus,ls,ls 460 l awd
-lexus,ls,ls 500
-lexus,ls,ls 500 awd
-lexus,ls,ls 500h
-lexus,ls,ls 500h awd
-lexus,ls,ls 600h l
-lexus,lx,lx 450
-lexus,lx,lx 470
-lexus,lx,lx 570
-lexus,lx,lx 600
-lexus,nx,nx 200t
-lexus,nx,nx 200t awd
-lexus,nx,nx 200t awd f sport
-lexus,nx,nx 250
-lexus,nx,nx 250 awd
-lexus,nx,nx 300
-lexus,nx,nx 300 awd
-lexus,nx,nx 300 awd f sport
-lexus,nx,nx 300h
-lexus,nx,nx 300h awd
-lexus,nx,nx 350 awd
-lexus,nx,nx 350 awd f sport
-lexus,nx,nx 350h awd
-lexus,nx,nx 450h plus awd
-lexus,rc,rc
-lexus,rx,rx 300
-lexus,rx,rx 300 4wd
-lexus,rx,rx 330 2wd
-lexus,rx,rx 330 4wd
-lexus,rx,rx 350
-lexus,rx,rx 350 2wd
-lexus,rx,rx 350 4wd
-lexus,rx,rx 350 awd
-lexus,rx,rx 350 l
-lexus,rx,rx 350 l awd
-lexus,rx,rx 350h awd
-lexus,rx,rx 400h 2wd
-lexus,rx,rx 400h 4wd
-lexus,rx,rx 450h
-lexus,rx,rx 450h awd
-lexus,rx,rx 450h l awd
-lexus,rx,rx 500h awd
-lexus,rz,rz 300e (18 inch wheels)
-lexus,rz,rz 300e (20 inch wheels)
-lexus,rz,rz 450e awd (18 inch wheels)
-lexus,rz,rz 450e awd (20 inch wheels)
+lexus,ls,ls350
+lexus,ls,ls400
+lexus,ls,ls430
+lexus,ls,ls460
+lexus,ls,ls500
+lexus,ls,ls600
+lexus,lx,lx450
+lexus,lx,lx470
+lexus,lx,lx570
+lexus,lx,lx600
+lexus,nx,nx200
+lexus,nx,nx250
+lexus,nx,nx300
+lexus,nx,nx350
+lexus,nx,nx450
+lexus,rc,rc200
+lexus,rc,rc350
+lexus,rx,rx270
+lexus,rx,rx300
+lexus,rx,rx330
+lexus,rx,rx350
+lexus,rx,rx400
+lexus,rx,rx450
+lexus,rx,rx500
+lexus,rz,rz300
+lexus,rz,rz450
 lexus,sc,sc
-lexus,sc,sc 300/sc 400
-lexus,sc,sc 300/sc 430
-lexus,sc,sc 430
-lexus,tx,tx 350
-lexus,tx,tx 350 awd
-lexus,tx,tx 500h awd
-lexus,ux,ux 200
-lexus,ux,ux 250h
-lexus,ux,ux 250h awd
-lexus,ux,ux 300h
-lexus,ux,ux 300h awd
+lexus,sc,sc300
+lexus,sc,sc400
+lexus,sc,sc430
+lexus,tx,tx350
+lexus,tx,tx500
+lexus,ux,ux200
+lexus,ux,ux250
+lexus,ux,ux300
 lotus,elan,elan
-lotus,elise/exige,elise/exige
 lotus,emira,emira
 lotus,esprit,98 esprit v8
 lotus,esprit,esprit
@@ -1573,12 +1524,13 @@ mercedes-benz,cla-class,cla35
 mercedes-benz,cla-class,cla45
 mercedes-benz,cla-class,cla180
 mercedes-benz,cla-class,cla200
+mercedes-benz,cla-class,cla220
 mercedes-benz,cla-class,cla250
 mercedes-benz,clc-class,clc180k
 mercedes-benz,cle-class,cle300
 mercedes-benz,cle-class,cle450
-mercedes-benz,cle-class,cle450 4matic (coupe)
 mercedes-benz,clk-class,clk200
+mercedes-benz,clk-class,clk230
 mercedes-benz,clk-class,clk320
 mercedes-benz,clk-class,clk350
 mercedes-benz,clk-class,clk430
@@ -1588,6 +1540,7 @@ mercedes-benz,clk-class,clk550
 mercedes-benz,clk-class,clk63
 mercedes-benz,cls-class,cls53
 mercedes-benz,cls-class,cls63
+mercedes-benz,cls-class,cls300
 mercedes-benz,cls-class,cls350
 mercedes-benz,cls-class,cls400
 mercedes-benz,cls-class,cls450
@@ -1682,6 +1635,7 @@ mercedes-benz,gls-class,gls600
 mercedes-benz,v-class,v220
 mercedes-benz,v-class,v250
 mercedes-benz,v-class,v260
+mercedes-benz,v-class,v300
 mercedes-benz,maybach,maybach s550 4matic
 mercedes-benz,maybach,maybach s600
 mercedes-benz,maybach,maybach s650 convertible
@@ -2210,6 +2164,7 @@ volkswagen,id,id
 volkswagen,id.buzz,id.buzz
 volkswagen,jetta,jetta
 volkswagen,passat,passat
+volkswagen,cc,cc
 volkswagen,phaeton,phaeton
 volkswagen,quantum,quantum
 volkswagen,quantum,quantum wagon
